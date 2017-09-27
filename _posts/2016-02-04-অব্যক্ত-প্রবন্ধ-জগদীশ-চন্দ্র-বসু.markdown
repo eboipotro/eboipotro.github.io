@@ -1,0 +1,21 @@
+---
+layout: post
+published: true
+title: "অব্যক্ত"
+tags: ["জগদীশ চন্দ্র বসু"]
+categories: ["প্রবন্ধ"]
+img: "/images/অব্যক্ত-প্রবন্ধ-জগদীশ-চন্দ্র-বসু.jpg"
+type: "প্রবন্ধ"
+dlink: "https://github.com/eboipotro/jagadish/raw/master/প্রবন্ধ/অব্যক্ত.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই-বইপত্র"
+   link: ""
+moddate: "2016-02-04"
+pubdate: "2016-02-04"
+comments: true
+authors: 
+ - author: "জগদীশ চন্দ্র বসু"
+   link: "https://eboipotro.github.io/author/জগদীশ-চন্দ্র-বসু/"
+permalink: "/library/অব্যক্ত-প্রবন্ধ-জগদীশ-চন্দ্র-বসু/"
+---

@@ -1,0 +1,21 @@
+---
+layout: post
+published: true
+title: "সাদাসিধে কথা"
+tags: ["মুহম্মদ জাফর ইকবাল"]
+categories: ["প্রবন্ধ"]
+img: "/images/সাদাসিধে-কথা-প্রবন্ধ-মুহম্মদ-জাফর-ইকবাল.jpg"
+type: "প্রবন্ধ"
+dlink: "https://github.com/eboipotro/zafar_iqbal/raw/master/প্রবন্ধ/সাদাসিধে_কথা.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই-বইপত্র"
+   link: ""
+moddate: "2016-01-31"
+pubdate: "2015-08-30"
+comments: true
+authors: 
+ - author: "মুহম্মদ জাফর ইকবাল"
+   link: "https://eboipotro.github.io/author/মুহম্মদ-জাফর-ইকবাল/"
+permalink: "/library/সাদাসিধে-কথা-প্রবন্ধ-মুহম্মদ-জাফর-ইকবাল/"
+---

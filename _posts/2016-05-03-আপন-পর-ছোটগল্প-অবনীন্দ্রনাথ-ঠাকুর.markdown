@@ -1,0 +1,22 @@
+---
+layout: post
+published: true
+title: "আপন-পর"
+tags: ["অবনীন্দ্রনাথ ঠাকুর"]
+categories: ["শিশুসাহিত্য", "ছোটগল্প"]
+img: "/images/আপন-পর-ছোটগল্প-অবনীন্দ্রনাথ-ঠাকুর.jpg"
+type: "ছোটগল্প"
+subject: ["শিশুসাহিত্য"]
+dlink: "https://github.com/eboipotro/Abanindranath/raw/master/গল্প/আপন-পর.epub"
+lang: "bn"
+publishers: 
+ - publisher: "Swiftboox"
+   link: "https://www.swiftboox.com"
+moddate: "2016-05-03"
+pubdate: "2013-07-09"
+comments: true
+authors: 
+ - author: "অবনীন্দ্রনাথ ঠাকুর"
+   link: "https://eboipotro.github.io/author/অবনীন্দ্রনাথ-ঠাকুর/"
+permalink: "/library/আপন-পর-ছোটগল্প-অবনীন্দ্রনাথ-ঠাকুর/"
+---

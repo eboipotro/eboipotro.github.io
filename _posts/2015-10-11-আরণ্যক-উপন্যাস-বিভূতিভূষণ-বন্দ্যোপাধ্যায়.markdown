@@ -1,0 +1,21 @@
+---
+layout: post
+published: true
+title: "আরণ্যক"
+tags: ["বিভূতিভূষণ বন্দ্যোপাধ্যায়"]
+categories: ["উপন্যাস"]
+img: "/images/আরণ্যক-উপন্যাস-বিভূতিভূষণ-বন্দ্যোপাধ্যায়.png"
+type: "উপন্যাস"
+dlink: "https://github.com/eboipotro/bibhutibhushan/raw/master/উপন্যাস/আরণ্যক.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই-বইপত্র"
+   link: ""
+moddate: "2015-10-11"
+pubdate: "2015-10-08"
+comments: true
+authors: 
+ - author: "বিভূতিভূষণ বন্দ্যোপাধ্যায়"
+   link: "https://eboipotro.github.io/author/বিভূতিভূষণ-বন্দ্যোপাধ্যায়/"
+permalink: "/library/আরণ্যক-উপন্যাস-বিভূতিভূষণ-বন্দ্যোপাধ্যায়/"
+---

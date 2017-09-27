@@ -1,0 +1,22 @@
+---
+layout: post
+published: true
+title: "মিস্‌মিদের কবচ"
+tags: ["বিভূতিভূষণ বন্দ্যোপাধ্যায়"]
+categories: ["শিশুসাহিত্য", "উপন্যাস"]
+img: "/images/মিস্‌মিদের-কবচ-উপন্যাস-বিভূতিভূষণ-বন্দ্যোপাধ্যায়.jpeg"
+type: "উপন্যাস"
+subject: ["শিশুসাহিত্য"]
+dlink: "https://github.com/eboipotro/bibhutibhushan/raw/master/উপন্যাস/মিসমিদের-কবচ.epub"
+lang: "bn"
+publishers: 
+ - publisher: "শিশু-কিশোর.অর্গ"
+   link: "http://www.shishukishor.org"
+moddate: "2016-05-24"
+pubdate: "2016-05-24"
+comments: true
+authors: 
+ - author: "বিভূতিভূষণ বন্দ্যোপাধ্যায়"
+   link: "https://eboipotro.github.io/author/বিভূতিভূষণ-বন্দ্যোপাধ্যায়/"
+permalink: "/library/মিস্‌মিদের-কবচ-উপন্যাস-বিভূতিভূষণ-বন্দ্যোপাধ্যায়/"
+---

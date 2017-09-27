@@ -1,0 +1,27 @@
+---
+layout: post
+published: true
+title: "বনলতা সেন"
+tags: ["জীবনানন্দ দাশ"]
+categories: ["কবিতা"]
+img: "/images/বনলতা-সেন-কবিতা-জীবনানন্দ-দাশ.png"
+type: "কবিতা"
+dlink: "https://github.com/eboipotro/jibanananda_das/raw/master/কবিতা/বনলতা_সেন.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই-বইপত্র"
+   link: ""
+moddate: "2016-04-24"
+pubdate: "2015-11-30"
+comments: true
+authors: 
+ - author: "জীবনানন্দ দাশ"
+   link: "https://eboipotro.github.io/author/জীবনানন্দ-দাশ/"
+illustrators: 
+ - illustrator: "নাসিম আহমেদ"
+   link: "https://www.facebook.com/nasim.ahmed.9440"
+editors: 
+ - editor: "সাইফুল ইসলাম প্লাবন"
+   link: "https://www.facebook.com/i.m.saiful"
+permalink: "/library/বনলতা-সেন-কবিতা-জীবনানন্দ-দাশ/"
+---

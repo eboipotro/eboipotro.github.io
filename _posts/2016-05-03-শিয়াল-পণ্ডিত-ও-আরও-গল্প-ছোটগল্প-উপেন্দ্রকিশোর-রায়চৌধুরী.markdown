@@ -1,0 +1,23 @@
+---
+layout: post
+published: true
+title: "শিয়াল পণ্ডিত ও আরও গল্প"
+tags: ["উপেন্দ্রকিশোর রায়চৌধুরী"]
+categories: ["শিশুসাহিত্য", "ছোটগল্প"]
+img: "/images/শিয়াল-পণ্ডিত-ও-আরও-গল্প-ছোটগল্প-উপেন্দ্রকিশোর-রায়চৌধুরী.jpg"
+type: "ছোটগল্প"
+subject: ["শিশুসাহিত্য"]
+dlink: "https://github.com/eboipotro/upendrakishore/raw/master/গল্প/শেয়াল_পণ্ডিত_ও_আরও_গল্প.epub"
+lang: "bn"
+publishers: 
+ - publisher: "Swiftboox"
+   link: "http://www.swiftboox.com"
+moddate: "2016-05-03"
+pubdate: "2014-01-01"
+comments: true
+authors: 
+ - author: "উপেন্দ্রকিশোর রায়চৌধুরী"
+   link: "https://eboipotro.github.io/author/উপেন্দ্রকিশোর-রায়চৌধুরী/"
+description: "উপেন্দ্রকিশোর রায়চৌধুরীর রূপকথার সংকলন"
+permalink: "/library/শিয়াল-পণ্ডিত-ও-আরও-গল্প-ছোটগল্প-উপেন্দ্রকিশোর-রায়চৌধুরী/"
+---

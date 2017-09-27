@@ -1,0 +1,21 @@
+---
+layout: post
+published: true
+title: "ছড়া"
+tags: ["রবীন্দ্রনাথ ঠাকুর"]
+categories: ["কবিতা"]
+img: "/images/ছড়া-কবিতা-রবীন্দ্রনাথ-ঠাকুর.png"
+type: "কবিতা"
+dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/ছড়া.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই-বইপত্র"
+   link: ""
+moddate: "2016-04-24"
+pubdate: "2016-01-12"
+comments: true
+authors: 
+ - author: "রবীন্দ্রনাথ ঠাকুর"
+   link: "https://eboipotro.github.io/author/রবীন্দ্রনাথ-ঠাকুর/"
+permalink: "/library/ছড়া-কবিতা-রবীন্দ্রনাথ-ঠাকুর/"
+---

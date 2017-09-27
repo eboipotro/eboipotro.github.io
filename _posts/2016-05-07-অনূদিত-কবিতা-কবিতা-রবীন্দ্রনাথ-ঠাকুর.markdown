@@ -1,0 +1,21 @@
+---
+layout: post
+published: true
+title: "অনূদিত কবিতা"
+tags: ["রবীন্দ্রনাথ ঠাকুর"]
+categories: ["কবিতা"]
+img: "/images/অনূদিত-কবিতা-কবিতা-রবীন্দ্রনাথ-ঠাকুর.jpg"
+type: "কবিতা"
+dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/অনূদিত_কবিতা.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই-বইপত্র"
+   link: ""
+moddate: "2016-05-07"
+pubdate: "2015-10-08"
+comments: true
+authors: 
+ - author: "রবীন্দ্রনাথ ঠাকুর"
+   link: "https://eboipotro.github.io/author/রবীন্দ্রনাথ-ঠাকুর/"
+permalink: "/library/অনূদিত-কবিতা-কবিতা-রবীন্দ্রনাথ-ঠাকুর/"
+---

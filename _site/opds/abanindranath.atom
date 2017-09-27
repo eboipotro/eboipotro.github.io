@@ -1,0 +1,681 @@
+<feed xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/" xmlns="http://www.w3.org/2005/Atom">
+  <title>অবনীন্দ্রনাথ ঠাকুর</title>
+  <updated>2017-01-02T13:31:52+06:00</updated>
+  <icon>http://eboipotro.github.io/opds/icon/bibhutibhushan.png</icon>
+  <link rel="self" type="application/atom+xml" href="http://eboipotro.github.io/catalog/"/>
+  <author>
+    <name>ই-বইপত্র</name>
+    <uri>http://eboipotro.github.io</uri>
+  </author>
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ <entry>
+    <title>আপন-পর</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/Abanindranath/raw/master/গল্প/আপন-পর.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/আপন-পর-ছোটগল্প-অবনীন্দ্রনাথ-ঠাকুর.jpg" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/আপন-পর-ছোটগল্প-অবনীন্দ্রনাথ-ঠাকুর.jpg" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-05-03 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>অবনীন্দ্রনাথ ঠাকুর</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> ছোটগল্প<br/>
+            
+    <b>বিষয়:</b> শিশুসাহিত্য<br/>
+    
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+০৯
+
+জুলাই
+  
+
+২০১৩
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+০৩
+
+মে
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="https://www.swiftboox.com" target="_blank"><b>Swiftboox</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ <entry>
+    <title>বুড়ো আংলা</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/Abanindranath/raw/master/উপন্যাস/বুড়ো_আংলা.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/বুড়ো-আংলা-উপন্যাস-অবনীন্দ্রনাথ-ঠাকুর.jpg" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/বুড়ো-আংলা-উপন্যাস-অবনীন্দ্রনাথ-ঠাকুর.jpg" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-03-13 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>অবনীন্দ্রনাথ ঠাকুর</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>অলঙ্করণ: </b><a href="https://bn.wikipedia.org/wiki/সত্যজিৎ_রায়" target="_blank">সত্যজিৎ রায়</a>প্রভাতচন্দ্র রায়<br/>
+        <b>ধরণ:</b> উপন্যাস<br/>
+            
+    <b>বিষয়:</b> শিশুসাহিত্য<br/>
+    
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+০৯
+
+ফেব্রুয়ারি
+  
+২০১৬
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+১৩
+
+মার্চ
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ <entry>
+    <title>হানাবাড়ির কারখানা</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/Abanindranath/raw/master/গল্প/হানাবাড়ির_কারখানা.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/হানাবাড়ির-কারখানা-ছোটগল্প-অবনীন্দ্রনাথ-ঠাকুর.jpg" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/হানাবাড়ির-কারখানা-ছোটগল্প-অবনীন্দ্রনাথ-ঠাকুর.jpg" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-04-28 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>অবনীন্দ্রনাথ ঠাকুর</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> ছোটগল্প<br/>
+            
+    <b>বিষয়:</b> শিশুসাহিত্য<br/>
+    
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+১০
+
+জুলাই
+  
+
+২০১৩
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+২৮
+
+এপ্রিল
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://www.swiftboox.com" target="_blank"><b>Swiftboox</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+</feed>

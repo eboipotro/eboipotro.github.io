@@ -1,0 +1,22 @@
+---
+layout: post
+published: true
+title: "চিত্রাঙ্গদা"
+tags: ["রবীন্দ্রনাথ ঠাকুর"]
+categories: ["নৃত্যনাট্য", "নাটক"]
+img: "/images/চিত্রাঙ্গদা-নাটক-নৃত্যনাট্য-রবীন্দ্রনাথ-ঠাকুর.jpg"
+type: "নাটক"
+subject: ["নৃত্যনাট্য"]
+dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/নাটক/চিত্রাঙ্গদা_নৃত্যনাট্য.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই-বইপত্র"
+   link: ""
+moddate: "2016-04-06"
+pubdate: "2016-04-06"
+comments: true
+authors: 
+ - author: "রবীন্দ্রনাথ ঠাকুর"
+   link: "https://eboipotro.github.io/author/রবীন্দ্রনাথ-ঠাকুর/"
+permalink: "/library/চিত্রাঙ্গদা-নাটক-নৃত্যনাট্য-রবীন্দ্রনাথ-ঠাকুর/"
+---

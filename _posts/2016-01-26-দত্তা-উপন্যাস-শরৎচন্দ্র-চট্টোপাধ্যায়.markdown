@@ -1,0 +1,21 @@
+---
+layout: post
+published: true
+title: "দত্তা"
+tags: ["শরৎচন্দ্র চট্টোপাধ্যায়"]
+categories: ["উপন্যাস"]
+img: "/images/দত্তা-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.png"
+type: "উপন্যাস"
+dlink: "https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/দত্তা.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই-বইপত্র"
+   link: ""
+moddate: "2016-01-26"
+pubdate: "2016-01-17"
+comments: true
+authors: 
+ - author: "শরৎচন্দ্র চট্টোপাধ্যায়"
+   link: "https://eboipotro.github.io/author/শরৎচন্দ্র-চট্টোপাধ্যায়/"
+permalink: "/library/দত্তা-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়/"
+---

@@ -1,0 +1,22 @@
+---
+layout: post
+published: true
+title: "হানাবাড়ির কারখানা"
+tags: ["অবনীন্দ্রনাথ ঠাকুর"]
+categories: ["শিশুসাহিত্য", "ছোটগল্প"]
+img: "/images/হানাবাড়ির-কারখানা-ছোটগল্প-অবনীন্দ্রনাথ-ঠাকুর.jpg"
+type: "ছোটগল্প"
+subject: ["শিশুসাহিত্য"]
+dlink: "https://github.com/eboipotro/Abanindranath/raw/master/গল্প/হানাবাড়ির_কারখানা.epub"
+lang: "bn"
+publishers: 
+ - publisher: "Swiftboox"
+   link: "http://www.swiftboox.com"
+moddate: "2016-04-28"
+pubdate: "2013-07-10"
+comments: true
+authors: 
+ - author: "অবনীন্দ্রনাথ ঠাকুর"
+   link: "https://eboipotro.github.io/author/অবনীন্দ্রনাথ-ঠাকুর/"
+permalink: "/library/হানাবাড়ির-কারখানা-ছোটগল্প-অবনীন্দ্রনাথ-ঠাকুর/"
+---

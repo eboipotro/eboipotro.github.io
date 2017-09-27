@@ -1,0 +1,25 @@
+---
+layout: post
+published: true
+title: "মেঘনাদবধ কাব্য"
+tags: ["মাইকেল মধুসূদন দত্ত"]
+categories: ["মহাকাব্য", "কবিতা"]
+img: "/images/মেঘনাদবধ-কাব্য-কবিতা-মাইকেল-মধুসূদন-দত্ত.jpg"
+type: "কবিতা"
+subject: ["মহাকাব্য"]
+dlink: "https://github.com/eboipotro/michael_madhusudan_dutta/raw/master/কবিতা/মেঘনাদবধ_কাব্য.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই-বইপত্র"
+   link: ""
+moddate: "2016-04-20"
+pubdate: "2016-04-20"
+comments: true
+authors: 
+ - author: "মাইকেল মধুসূদন দত্ত"
+   link: "https://eboipotro.github.io/author/মাইকেল-মধুসূদন-দত্ত/"
+editors: 
+ - editor: "উৎসব রায়"
+   link: "https://uroybd.github.io"
+permalink: "/library/মেঘনাদবধ-কাব্য-কবিতা-মাইকেল-মধুসূদন-দত্ত/"
+---

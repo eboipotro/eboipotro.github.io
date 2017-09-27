@@ -1,0 +1,21 @@
+---
+layout: post
+published: true
+title: "রূপ টুপ কথা টথা"
+tags: ["নিঘাত সুলতানা তিথি"]
+categories: ["ছোটগল্প"]
+img: "/images/রূপ-টুপ-কথা-টথা-ছোটগল্প-নিঘাত-সুলতানা-তিথি.jpeg"
+type: "ছোটগল্প"
+dlink: "https://github.com/eboipotro/boidweep/raw/master/Books/রূপ_টুপ_কথা_টথা.epub"
+lang: "bn"
+publishers: 
+ - publisher: "বইদ্বীপ"
+   link: "http://www.boidweep.com/"
+moddate: "2016-03-13"
+pubdate: "2014-03-01"
+comments: true
+authors: 
+ - author: "নিঘাত সুলতানা তিথি"
+   link: "https://eboipotro.github.io/author/নিঘাত-সুলতানা-তিথি/"
+permalink: "/library/রূপ-টুপ-কথা-টথা-ছোটগল্প-নিঘাত-সুলতানা-তিথি/"
+---

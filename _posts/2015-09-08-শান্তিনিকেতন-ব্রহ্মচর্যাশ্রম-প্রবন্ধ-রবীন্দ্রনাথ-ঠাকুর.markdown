@@ -1,0 +1,21 @@
+---
+layout: post
+published: true
+title: "শান্তিনিকেতন ব্রহ্মচর্যাশ্রম"
+tags: ["রবীন্দ্রনাথ ঠাকুর"]
+categories: ["প্রবন্ধ"]
+img: "/images/শান্তিনিকেতন-ব্রহ্মচর্যাশ্রম-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png"
+type: "প্রবন্ধ"
+dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/শান্তিনিকেতন_ব্রহ্মচর্যাশ্রম.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই-বইপত্র"
+   link: ""
+moddate: "2015-09-08"
+pubdate: "2015-09-08"
+comments: true
+authors: 
+ - author: "রবীন্দ্রনাথ ঠাকুর"
+   link: "https://eboipotro.github.io/author/রবীন্দ্রনাথ-ঠাকুর/"
+permalink: "/library/শান্তিনিকেতন-ব্রহ্মচর্যাশ্রম-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর/"
+---

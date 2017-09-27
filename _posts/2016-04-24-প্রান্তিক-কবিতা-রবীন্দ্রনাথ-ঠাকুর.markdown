@@ -1,0 +1,21 @@
+---
+layout: post
+published: true
+title: "প্রান্তিক"
+tags: ["রবীন্দ্রনাথ ঠাকুর"]
+categories: ["কবিতা"]
+img: "/images/প্রান্তিক-কবিতা-রবীন্দ্রনাথ-ঠাকুর.jpg"
+type: "কবিতা"
+dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/প্রান্তিক.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই-বইপত্র"
+   link: ""
+moddate: "2016-04-24"
+pubdate: "2016-01-27"
+comments: true
+authors: 
+ - author: "রবীন্দ্রনাথ ঠাকুর"
+   link: "https://eboipotro.github.io/author/রবীন্দ্রনাথ-ঠাকুর/"
+permalink: "/library/প্রান্তিক-কবিতা-রবীন্দ্রনাথ-ঠাকুর/"
+---

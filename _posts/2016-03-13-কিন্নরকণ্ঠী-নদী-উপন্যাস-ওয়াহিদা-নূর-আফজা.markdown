@@ -1,0 +1,25 @@
+---
+layout: post
+published: true
+title: "কিন্নরকণ্ঠী নদী"
+tags: ["ওয়াহিদা নূর আফজা"]
+categories: ["উপন্যাস"]
+img: "/images/কিন্নরকণ্ঠী-নদী-উপন্যাস-ওয়াহিদা-নূর-আফজা.jpg"
+type: "উপন্যাস"
+dlink: "https://github.com/eboipotro/boidweep/raw/master/Books/কিন্নরকণ্ঠী_নদী.epub"
+lang: "bn"
+publishers: 
+ - publisher: "বইদ্বীপ"
+   link: "http://www.boidweep.com/"
+moddate: "2016-03-13"
+pubdate: "2010-01-01"
+comments: true
+authors: 
+ - author: "ওয়াহিদা নূর আফজা"
+   link: ""
+illustrators: 
+ - illustrator: "হাশেম খান"
+   link: ""
+description: "This is a Bangla fiction written by Wahida Noor Afza and published in 2010. The story has described a contemporary issue of modern life in Bangladesh."
+permalink: "/library/কিন্নরকণ্ঠী-নদী-উপন্যাস-ওয়াহিদা-নূর-আফজা/"
+---

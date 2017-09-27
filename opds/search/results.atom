@@ -1,0 +1,45 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<feed id="results" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:opds="http://opds-spec.org/2010/catalog" xml:lang="en" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.w3.org/2005/Atom">
+  <id>results.xml</id>
+  <title>ফলাফল</title>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <author>
+    <name>ই-বইপত্র</name>
+    <uri>http://eboipotro.github.io</uri>
+  </author>
+  <link type="application/atom+xml;profile=opds-catalog;kind=acquisition" rel="self" href="results.atom"/>
+  <link type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" href="http://eboipotro.github.io/catalog"/>
+  <link type="application/opensearchdescription+xml" title="ই-বইপত্রে খুঁজুন" rel="search" href="/opds/opensearch.atom" />
+  
+  <opensearch:totalResults>3</opensearch:totalResults>
+
+</feed>
+<body style="display: none;">
+<script>
+	var JEKYLL_POSTS = [];
+	{% for post in site.posts %}
+	JEKYLL_POSTS.push({
+		title: "{{ post.title }}",
+		dlink: "{{ post.dlink }}",
+                author: "{{ post.categories }}",
+                img: "{{ post.img }}",
+                type: "{{ post.tags }}",
+                date: "{{ post.date }}",
+                pub: "{{ post.pub }}",
+                lang: "{{ post.lang }}",
+                updatedate: "{{ site.time | date_to_xmlschema }}"
+	}); 
+    {% endfor %}
+</script>
+
+<script src="{{ "/js/search.js" | prepend: site.baseurl }}"></script>
+<script>
+	new jekyllSearch({
+		selector: "#results",
+		properties: ["title", "author", "type"]
+	});
+</script>
+</body>

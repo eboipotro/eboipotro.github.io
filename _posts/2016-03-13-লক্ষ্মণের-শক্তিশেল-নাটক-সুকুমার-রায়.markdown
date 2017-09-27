@@ -1,0 +1,22 @@
+---
+layout: post
+published: true
+title: "লক্ষ্মণের শক্তিশেল"
+tags: ["সুকুমার রায়"]
+categories: ["শিশুসাহিত্য", "নাটক"]
+img: "/images/লক্ষ্মণের-শক্তিশেল-নাটক-সুকুমার-রায়.png"
+type: "নাটক"
+subject: ["শিশুসাহিত্য"]
+dlink: "https://github.com/eboipotro/sukumar_ray/raw/master/নাটক/লক্ষ্মণের_শক্তিশেল.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই-বইপত্র"
+   link: ""
+moddate: "2016-03-13"
+pubdate: "2015-09-28"
+comments: true
+authors: 
+ - author: "সুকুমার রায়"
+   link: "https://eboipotro.github.io/author/সুকুমার-রায়/"
+permalink: "/library/লক্ষ্মণের-শক্তিশেল-নাটক-সুকুমার-রায়/"
+---

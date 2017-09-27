@@ -1,0 +1,27 @@
+---
+layout: post
+published: true
+title: "বুড়ো আংলা"
+tags: ["অবনীন্দ্রনাথ ঠাকুর"]
+categories: ["শিশুসাহিত্য", "উপন্যাস"]
+img: "/images/বুড়ো-আংলা-উপন্যাস-অবনীন্দ্রনাথ-ঠাকুর.jpg"
+type: "উপন্যাস"
+subject: ["শিশুসাহিত্য"]
+dlink: "https://github.com/eboipotro/Abanindranath/raw/master/উপন্যাস/বুড়ো_আংলা.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই-বইপত্র"
+   link: ""
+moddate: "2016-03-13"
+pubdate: "2016-02-09"
+comments: true
+authors: 
+ - author: "অবনীন্দ্রনাথ ঠাকুর"
+   link: "https://eboipotro.github.io/author/অবনীন্দ্রনাথ-ঠাকুর/"
+illustrators: 
+ - illustrator: "সত্যজিৎ রায়"
+   link: "https://bn.wikipedia.org/wiki/সত্যজিৎ_রায়"
+ - illustrator: "প্রভাতচন্দ্র রায়"
+   link: ""
+permalink: "/library/বুড়ো-আংলা-উপন্যাস-অবনীন্দ্রনাথ-ঠাকুর/"
+---

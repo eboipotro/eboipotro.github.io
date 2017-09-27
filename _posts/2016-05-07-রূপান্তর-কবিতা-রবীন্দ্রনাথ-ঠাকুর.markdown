@@ -1,0 +1,21 @@
+---
+layout: post
+published: true
+title: "রূপান্তর"
+tags: ["রবীন্দ্রনাথ ঠাকুর"]
+categories: ["কবিতা"]
+img: "/images/রূপান্তর-কবিতা-রবীন্দ্রনাথ-ঠাকুর.jpg"
+type: "কবিতা"
+dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/রূপান্তর.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই-বইপত্র"
+   link: ""
+moddate: "2016-05-07"
+pubdate: "2016-05-07"
+comments: true
+authors: 
+ - author: "রবীন্দ্রনাথ ঠাকুর"
+   link: "https://eboipotro.github.io/author/রবীন্দ্রনাথ-ঠাকুর/"
+permalink: "/library/রূপান্তর-কবিতা-রবীন্দ্রনাথ-ঠাকুর/"
+---

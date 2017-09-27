@@ -1,0 +1,21 @@
+---
+layout: post
+published: true
+title: "বৈকুন্ঠের উইল"
+tags: ["শরৎচন্দ্র চট্টোপাধ্যায়"]
+categories: ["উপন্যাস"]
+img: "/images/বৈকুন্ঠের-উইল-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.jpg"
+type: "উপন্যাস"
+dlink: "https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/বৈকুন্ঠের_উইল.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই-বইপত্র"
+   link: ""
+moddate: "2016-03-02"
+pubdate: "2016-03-02"
+comments: true
+authors: 
+ - author: "শরৎচন্দ্র চট্টোপাধ্যায়"
+   link: "https://eboipotro.github.io/author/শরৎচন্দ্র-চট্টোপাধ্যায়/"
+permalink: "/library/বৈকুন্ঠের-উইল-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়/"
+---

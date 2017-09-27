@@ -1,0 +1,72 @@
+---
+layout: default
+title: Home
+---
+<div class="posts" style="display:inline-flex; flex-direction: row; flex-grow: 1; flex-wrap: wrap; align-items: strech; -webkit-flex: 1; -ms-flex: 1;">
+{% for post in paginator.posts %}
+<div class="post" style="min-width:350px; max-width:350px; width:350px;">
+  <b class="post-title" style="font-size:130%">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+  </b>
+  <p style="font-size: 0.8em;"><a href="{{ post.url }}"><img src="{{ post.img }}" align="left" style="margin-right: 10px; box-shadow: 3px 3px 20px #202020;" height="212px" width="150px"></a>
+    <b>লেখক: </b> {% for ath in post.authors %}
+        {{ ath.author }}
+    {% endfor %}<br>
+    <b>ধরণ:</b> {{ post.type }}<br>
+        {% if post.subject %}
+    <b>বিষয়:</b> {{ post.subject | join: ', ' }}<br>
+        {% endif %}
+    <b>সর্বশেষ সংস্করণ:</b><br>{% include bangla-post-mod-date.html %}<br>
+        <b>প্রকাশক:</b>
+    {% if post.publishers %}
+        {% for pub in post.publishers %}
+            {% if pub.publisher == 'ই-বইপত্র' or pub.publisher == 'ই - বইপত্র' %}
+    ই-বইপত্র
+           {% elsif pub.link == "" %}
+                {{ pub.publisher }}
+    {% else %}
+   {{ pub.publisher }}
+    {% endif %}
+    {% endfor %}
+    {% endif %}<br>
+    <form method="get" action="{{ post.dlink }}">
+      <button type="submit" style="background-color: #202020; color: white; border: none; width:130px; height:48px; font-size:1em; padding: 2px; cursor: pointer; cursor: hand;"><i class="material-icons">file_download</i>ডাউনলোড</button>
+    </form>
+    {% if post.price %}
+    <div style="width:auto; height:2px; display:inline-block;"></div>
+    <form method="get" action="{{ post.url }}">
+	    <button type="submit" style="background-color: #202020; color: white; border: none; width:130px; height:48px; font-size:1em; padding: 2px; cursor: pointer; cursor: hand;"><i class="material-icons">shopping_cart</i>কিনুন</button>
+    </form>
+    {% endif %}
+  </p>
+</div>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  <div class="page-nums">{% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+    <em>{{ page | replace:'1','১' | replace:'2','২' | replace:'3','৩' | replace:'4','৪' | replace:'5','৫' | replace:'6','৬' | replace:'7','৭' | replace:'8','৮' | replace:'9','৯' | replace:'0','০'}}</em>
+    {% elsif page == 1 %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page | replace:'1','১' | replace:'2','২' | replace:'3','৩' | replace:'4','৪' | replace:'5','৫' | replace:'6','৬' | replace:'7','৭' | replace:'8','৮' | replace:'9','৯' | replace:'0','০'}}</a>
+    {% else %}
+    <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page | replace:'1','১' | replace:'2','২' | replace:'3','৩' | replace:'4','৪' | replace:'5','৫' | replace:'6','৬' | replace:'7','৭' | replace:'8','৮' | replace:'9','৯' | replace:'0','০'}}</a>
+    {% endif %}
+    {% endfor %}</div>
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="/page{{paginator.next_page}}">পূর্ববর্তী</a>
+  {% else %}
+    <span class="pagination-item older">পূর্ববতী</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="/">পরবর্তী</a>
+    {% else %}
+      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">পরবর্তী</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">পরবর্তী</span>
+  {% endif %}
+</div>

@@ -1,0 +1,21 @@
+---
+layout: post
+published: true
+title: "বেলা অবেলা কালবেলা"
+tags: ["জীবনানন্দ দাশ"]
+categories: ["কবিতা"]
+img: "/images/বেলা-অবেলা-কালবেলা-কবিতা-জীবনানন্দ-দাশ.jpg"
+type: "কবিতা"
+dlink: "https://github.com/eboipotro/jibanananda_das/raw/master/কবিতা/বেলা_অবেলা_কালবেলা.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই-বইপত্র"
+   link: ""
+moddate: "2016-04-24"
+pubdate: "2015-12-02"
+comments: true
+authors: 
+ - author: "জীবনানন্দ দাশ"
+   link: "https://eboipotro.github.io/author/জীবনানন্দ-দাশ/"
+permalink: "/library/বেলা-অবেলা-কালবেলা-কবিতা-জীবনানন্দ-দাশ/"
+---

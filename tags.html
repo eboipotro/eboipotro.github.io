@@ -1,0 +1,24 @@
+---
+title: লাইব্রেরি
+layout: page
+permalink: /library/
+---
+<p><span style="font-size: 2rem;">আমাদের আছে </span><span style="font-size: 3rem;"><b>{{ site.tags | size | replace:'1','১' | replace:'2','২' | replace:'3','৩' | replace:'4','৪' | replace:'5','৫' | replace:'6','৬' | replace:'7','৭' | replace:'8','৮' | replace:'9','৯' | replace:'0','০' }}</b>জন লেখকের </span><span style="font-size: 2.3rem;"><b>{{ site.categories | size | replace:'1','১' | replace:'2','২' | replace:'3','৩' | replace:'4','৪' | replace:'5','৫' | replace:'6','৬' | replace:'7','৭' | replace:'8','৮' | replace:'9','৯' | replace:'0','০' }}</b>রকমের </span><span style="font-size: 2rem;">মোট </span><span style="font-size: 4rem;"><b>{{ site.posts | size | replace:'1','১' | replace:'2','২' | replace:'3','৩' | replace:'4','৪' | replace:'5','৫' | replace:'6','৬' | replace:'7','৭' | replace:'8','৮' | replace:'9','৯' | replace:'0','০' }}</b>টি বই!</span></p>
+<h3>OPDS Catalog</h3>
+<p>অনেক ইবুক রিডার এ্যাপ্লিকেশনই সরাসরি বুকস্টোর থেকে ডাউনলোডের সুযোগ দেয়। তাদের জন্য ই-বইপত্রের ক্যাটালগ সাপোর্ট আছে। ই-বইপত্রকে ক্যাটালগে যোগ করার জন্য লাইব্রেরির নাম দিন 'ই-বইপত্র' এবং ক্যাটালগের লিঙ্ক দিতে হবে <a href="http://eboipotro.github.io/catalog">http://eboipotro.github.io/catalog</a></p>
+
+{% assign types = site.categories | sort %}
+{% assign authors = site.tags | sort %}
+{% assign s_post = site.posts | sort: 'title' %}
+<h3>লেখক/অনুবাদকসূচী</h3>
+<ul class="collapsibleList">{% for author in authors %}{% capture author_name %}{{ author | first }}{% endcapture %}<li class="collps"><a name="{{ author_name | slugize }}"><span id="#{{ author_name | slugize }}"><i class="material-icons">portrait</i>{{ author_name }}</span></a><a style="color:#4672e7" href="/author/{{author_name | replace: " ", "-"}}/">({{ site.tags[author_name].size | replace:'1','১' | replace:'2','২' | replace:'3','৩' | replace:'4','৪' | replace:'5','৫' | replace:'6','৬' | replace:'7','৭' | replace:'8','৮' | replace:'9','৯' | replace:'0','০'}})</a><ul>{% for type in types %}{% capture type_name %}{{ type | first }}{% endcapture %}<li class="collps"><i class="material-icons">view_quilt</i>{{ type_name }}<ul class="hidable">{% for post in s_post %}{% if post.tags contains author_name %}{% if post.categories contains type_name %}<li><i class="material-icons">book</i><a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a></li>{% endif %}{% endif %}{% endfor %}</ul></li>{% endfor %}</ul></li>{% endfor %}</ul>
+<script type="text/javascript" src="https://eboipotro.github.io/js/CollapsibleLists.js"></script>
+<script>CollapsibleLists.apply();</script>
+<script>
+$('ul').each(function(){
+if($(this).html() == "" || typeof($(this).html())=="undefined")
+{
+    $(this).remove
+}
+});
+</script>

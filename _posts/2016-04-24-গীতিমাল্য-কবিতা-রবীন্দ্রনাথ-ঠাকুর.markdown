@@ -1,0 +1,21 @@
+---
+layout: post
+published: true
+title: "গীতিমাল্য"
+tags: ["রবীন্দ্রনাথ ঠাকুর"]
+categories: ["কবিতা"]
+img: "/images/গীতিমাল্য-কবিতা-রবীন্দ্রনাথ-ঠাকুর.jpg"
+type: "কবিতা"
+dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/গীতিমাল্য.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই-বইপত্র"
+   link: ""
+moddate: "2016-04-24"
+pubdate: "2016-01-25"
+comments: true
+authors: 
+ - author: "রবীন্দ্রনাথ ঠাকুর"
+   link: "https://eboipotro.github.io/author/রবীন্দ্রনাথ-ঠাকুর/"
+permalink: "/library/গীতিমাল্য-কবিতা-রবীন্দ্রনাথ-ঠাকুর/"
+---

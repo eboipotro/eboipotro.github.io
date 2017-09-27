@@ -1,0 +1,21 @@
+---
+layout: post
+published: true
+title: "পণ্ডিতমশাই"
+tags: ["শরৎচন্দ্র চট্টোপাধ্যায়"]
+categories: ["উপন্যাস"]
+img: "/images/পণ্ডিতমশাই-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.jpg"
+type: "উপন্যাস"
+dlink: "https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/পণ্ডিতমশাই.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই-বইপত্র"
+   link: ""
+moddate: "2016-01-28"
+pubdate: "2016-01-28"
+comments: true
+authors: 
+ - author: "শরৎচন্দ্র চট্টোপাধ্যায়"
+   link: "https://eboipotro.github.io/author/শরৎচন্দ্র-চট্টোপাধ্যায়/"
+permalink: "/library/পণ্ডিতমশাই-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়/"
+---

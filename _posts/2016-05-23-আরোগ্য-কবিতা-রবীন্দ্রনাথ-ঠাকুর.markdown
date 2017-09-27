@@ -1,0 +1,21 @@
+---
+layout: post
+published: true
+title: "আরোগ্য"
+tags: ["রবীন্দ্রনাথ ঠাকুর"]
+categories: ["কবিতা"]
+img: "/images/আরোগ্য-কবিতা-রবীন্দ্রনাথ-ঠাকুর.jpg"
+type: "কবিতা"
+dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/আরোগ্য.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই-বইপত্র"
+   link: ""
+moddate: "2016-05-23"
+pubdate: "2015-12-27"
+comments: true
+authors: 
+ - author: "রবীন্দ্রনাথ ঠাকুর"
+   link: "https://eboipotro.github.io/author/রবীন্দ্রনাথ-ঠাকুর/"
+permalink: "/library/আরোগ্য-কবিতা-রবীন্দ্রনাথ-ঠাকুর/"
+---

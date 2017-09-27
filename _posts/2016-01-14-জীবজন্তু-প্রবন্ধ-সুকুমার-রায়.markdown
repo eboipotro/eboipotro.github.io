@@ -1,0 +1,21 @@
+---
+layout: post
+published: true
+title: "জীবজন্তু"
+tags: ["সুকুমার রায়"]
+categories: ["প্রবন্ধ"]
+img: "/images/জীবজন্তু-প্রবন্ধ-সুকুমার-রায়.png"
+type: "প্রবন্ধ"
+dlink: "https://github.com/eboipotro/sukumar_ray/raw/master/প্রবন্ধ/জীবজন্তু.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই-বইপত্র"
+   link: ""
+moddate: "2016-01-14"
+pubdate: "2016-01-14"
+comments: true
+authors: 
+ - author: "সুকুমার রায়"
+   link: "https://eboipotro.github.io/author/সুকুমার-রায়/"
+permalink: "/library/জীবজন্তু-প্রবন্ধ-সুকুমার-রায়/"
+---

@@ -1,0 +1,731 @@
+<feed xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/" xmlns="http://www.w3.org/2005/Atom">
+  <title>বিভূতিভূষণ বন্দ্যোপাধ্যায়</title>
+  <updated>2017-01-02T13:31:52+06:00</updated>
+  <icon>http://eboipotro.github.io/opds/icon/bibhutibhushan.png</icon>
+  <link rel="self" type="application/atom+xml" href="http://eboipotro.github.io/catalog/"/>
+  <author>
+    <name>ই-বইপত্র</name>
+    <uri>http://eboipotro.github.io</uri>
+  </author>
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ <entry>
+    <title>আরণ্যক</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/bibhutibhushan/raw/master/উপন্যাস/আরণ্যক.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/আরণ্যক-উপন্যাস-বিভূতিভূষণ-বন্দ্যোপাধ্যায়.png" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/আরণ্যক-উপন্যাস-বিভূতিভূষণ-বন্দ্যোপাধ্যায়.png" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2015-10-11 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>বিভূতিভূষণ বন্দ্যোপাধ্যায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> উপন্যাস<br/>
+            
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+০৮
+
+অক্টোবর
+  
+২০১৫
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+১১
+
+অক্টোবর
+  
+২০১৫
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ <entry>
+    <title>চাঁদের পাহাড়</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/bibhutibhushan/raw/master/উপন্যাস/চাঁদের_পাহাড়.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/চাঁদের-পাহাড়-উপন্যাস-বিভূতিভূষণ-বন্দ্যোপাধ্যায়.png" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/চাঁদের-পাহাড়-উপন্যাস-বিভূতিভূষণ-বন্দ্যোপাধ্যায়.png" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2015-10-11 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>বিভূতিভূষণ বন্দ্যোপাধ্যায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> উপন্যাস<br/>
+            
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+২০
+
+সেপ্টেম্বর
+  
+২০১৫
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+১১
+
+অক্টোবর
+  
+২০১৫
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ <entry>
+    <title>দৃষ্টি প্রদীপ</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/bibhutibhushan/raw/master/উপন্যাস/দৃষ্টি_প্রদীপ.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/দৃষ্টি-প্রদীপ-উপন্যাস-বিভূতিভূষণ-বন্দ্যোপাধ্যায়.jpg" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/দৃষ্টি-প্রদীপ-উপন্যাস-বিভূতিভূষণ-বন্দ্যোপাধ্যায়.jpg" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-04-28 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>বিভূতিভূষণ বন্দ্যোপাধ্যায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> উপন্যাস<br/>
+            
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+১৫
+
+জুলাই
+  
+
+২০১৩
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+২৮
+
+এপ্রিল
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://www.swiftboox.com" target="_blank"><b>Swiftboox</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ <entry>
+    <title>মিস্‌মিদের কবচ</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/bibhutibhushan/raw/master/উপন্যাস/মিসমিদের-কবচ.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/মিস্‌মিদের-কবচ-উপন্যাস-বিভূতিভূষণ-বন্দ্যোপাধ্যায়.jpeg" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/মিস্‌মিদের-কবচ-উপন্যাস-বিভূতিভূষণ-বন্দ্যোপাধ্যায়.jpeg" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-05-24 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>বিভূতিভূষণ বন্দ্যোপাধ্যায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> উপন্যাস<br/>
+            
+    <b>বিষয়:</b> শিশুসাহিত্য<br/>
+    
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+২৪
+
+মে
+  
+২০১৬
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+২৪
+
+মে
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://www.shishukishor.org" target="_blank"><b>শিশু-কিশোর.অর্গ</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+</feed>

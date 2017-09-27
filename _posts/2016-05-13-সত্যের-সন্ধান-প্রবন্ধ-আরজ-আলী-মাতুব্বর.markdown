@@ -1,0 +1,22 @@
+---
+layout: post
+published: true
+title: "সত্যের সন্ধান"
+tags: ["আরজ আলী মাতুব্বর"]
+categories: ["দর্শন", "ধর্ম", "বিজ্ঞান", "প্রবন্ধ"]
+img: "/images/সত্যের-সন্ধান-প্রবন্ধ-আরজ-আলী-মাতুব্বর.jpg"
+type: "প্রবন্ধ"
+subject: ["দর্শন", "ধর্ম", "বিজ্ঞান"]
+dlink: "https://github.com/eboipotro/aroj_ali_matubbar/raw/master/প্রবন্ধ/সত্যের_সন্ধান.epub"
+lang: "bn"
+publishers: 
+ - publisher: "আমারবই.কম"
+   link: "http://amarboi.com"
+moddate: "2016-05-13"
+pubdate: "2016-02-18"
+comments: true
+authors: 
+ - author: "আরজ আলী মাতুব্বর"
+   link: "https://eboipotro.github.io/author/আরজ-আলী-মাতুব্বর/"
+permalink: "/library/সত্যের-সন্ধান-প্রবন্ধ-আরজ-আলী-মাতুব্বর/"
+---

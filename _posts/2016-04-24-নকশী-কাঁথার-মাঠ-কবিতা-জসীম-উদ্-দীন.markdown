@@ -1,0 +1,21 @@
+---
+layout: post
+published: true
+title: "নকশী কাঁথার মাঠ"
+tags: ["জসীম উদ্ দীন"]
+categories: ["কবিতা"]
+img: "/images/নকশী-কাঁথার-মাঠ-কবিতা-জসীম-উদ্-দীন.png"
+type: "কবিতা"
+dlink: "https://github.com/eboipotro/jasimuddin/raw/master/কবিতা/নকশীকাঁথার_মাঠ.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই-বইপত্র"
+   link: ""
+moddate: "2016-04-24"
+pubdate: "2015-10-19"
+comments: true
+authors: 
+ - author: "জসীম উদ্ দীন"
+   link: "https://eboipotro.github.io/author/জসীম-উদ্-দীন/"
+permalink: "/library/নকশী-কাঁথার-মাঠ-কবিতা-জসীম-উদ্-দীন/"
+---

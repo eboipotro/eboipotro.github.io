@@ -1,0 +1,22 @@
+---
+layout: post
+published: true
+title: "পাগলা দাশু"
+tags: ["সুকুমার রায়"]
+categories: ["শিশুসাহিত্য", "ছোটগল্প"]
+img: "/images/পাগলা-দাশু-ছোটগল্প-সুকুমার-রায়.jpg"
+type: "ছোটগল্প"
+subject: ["শিশুসাহিত্য"]
+dlink: "https://github.com/eboipotro/sukumar_ray/raw/master/গল্প/পাগলা_দাশু.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই-বইপত্র"
+   link: ""
+moddate: "2016-03-13"
+pubdate: "2016-01-14"
+comments: true
+authors: 
+ - author: "সুকুমার রায়"
+   link: "https://eboipotro.github.io/author/সুকুমার-রায়/"
+permalink: "/library/পাগলা-দাশু-ছোটগল্প-সুকুমার-রায়/"
+---

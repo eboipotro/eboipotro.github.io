@@ -1,0 +1,1426 @@
+<feed xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/" xmlns="http://www.w3.org/2005/Atom">
+  <title>সুকুমার রায়</title>
+  <updated>2017-01-02T13:31:52+06:00</updated>
+  <icon>http://eboipotro.github.io/opds/icon/bibhutibhushan.png</icon>
+  <link rel="self" type="application/atom+xml" href="http://eboipotro.github.io/catalog/"/>
+  <author>
+    <name>ই-বইপত্র</name>
+    <uri>http://eboipotro.github.io</uri>
+  </author>
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ <entry>
+    <title>অন্যান্য কবিতা</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/sukumar_ray/raw/master/কবিতা/অন্যান্য_কবিতা.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/অন্যান্য-কবিতা-কবিতা-সুকুমার-রায়.jpg" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/অন্যান্য-কবিতা-কবিতা-সুকুমার-রায়.jpg" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-04-24 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>সুকুমার রায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> কবিতা<br/>
+            
+    <b>বিষয়:</b> শিশুসাহিত্য<br/>
+    
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+১৭
+
+জানুয়ারি
+  
+২০১৬
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+২৪
+
+এপ্রিল
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ <entry>
+    <title>অন্যান্য গল্প</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/sukumar_ray/raw/master/গল্প/অন্যান্য_গল্প.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/অন্যান্য-গল্প-ছোটগল্প-সুকুমার-রায়.jpg" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/অন্যান্য-গল্প-ছোটগল্প-সুকুমার-রায়.jpg" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-03-13 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>সুকুমার রায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> ছোটগল্প<br/>
+            
+    <b>বিষয়:</b> শিশুসাহিত্য<br/>
+    
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+১৭
+
+জানুয়ারি
+  
+২০১৬
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+১৩
+
+মার্চ
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ <entry>
+    <title>অবাক জলপান</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/sukumar_ray/raw/master/নাটক/অবাক_জলপান.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/অবাক-জলপান-নাটক-সুকুমার-রায়.jpg" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/অবাক-জলপান-নাটক-সুকুমার-রায়.jpg" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-03-13 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>সুকুমার রায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> নাটক<br/>
+            
+    <b>বিষয়:</b> শিশুসাহিত্য<br/>
+    
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+২৮
+
+সেপ্টেম্বর
+  
+২০১৫
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+১৩
+
+মার্চ
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ <entry>
+    <title>আবোল তাবোল</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/sukumar_ray/raw/master/কবিতা/আবোল_তাবোল.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/আবোল-তাবোল-কবিতা-সুকুমার-রায়.jpg" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/আবোল-তাবোল-কবিতা-সুকুমার-রায়.jpg" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-04-24 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>সুকুমার রায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> কবিতা<br/>
+            
+    <b>বিষয়:</b> শিশুসাহিত্য<br/>
+    
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+১৩
+
+জানুয়ারি
+  
+২০১৬
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+২৪
+
+এপ্রিল
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ <entry>
+    <title>খাই খাই</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/sukumar_ray/raw/master/কবিতা/খাই_খাই.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/খাই-খাই-কবিতা-সুকুমার-রায়.jpg" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/খাই-খাই-কবিতা-সুকুমার-রায়.jpg" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-04-25 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>সুকুমার রায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> কবিতা<br/>
+            
+    <b>বিষয়:</b> শিশুসাহিত্য<br/>
+    
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+০৭
+
+জানুয়ারি
+  
+২০১৬
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+২৫
+
+এপ্রিল
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ <entry>
+    <title>জীবজন্তু</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/sukumar_ray/raw/master/প্রবন্ধ/জীবজন্তু.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/জীবজন্তু-প্রবন্ধ-সুকুমার-রায়.png" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/জীবজন্তু-প্রবন্ধ-সুকুমার-রায়.png" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-01-14 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>সুকুমার রায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> প্রবন্ধ<br/>
+            
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+১৪
+
+জানুয়ারি
+  
+২০১৬
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+১৪
+
+জানুয়ারি
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ <entry>
+    <title>জীবনী</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/sukumar_ray/raw/master/প্রবন্ধ/জীবনী.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/জীবনী-প্রবন্ধ-সুকুমার-রায়.png" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/জীবনী-প্রবন্ধ-সুকুমার-রায়.png" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2015-09-22 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>সুকুমার রায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> প্রবন্ধ<br/>
+            
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+২২
+
+সেপ্টেম্বর
+  
+২০১৫
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+২২
+
+সেপ্টেম্বর
+  
+২০১৫
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ <entry>
+    <title>ঝালাপালা</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/sukumar_ray/raw/master/নাটক/ঝালাপালা.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/ঝালাপালা-নাটক-সুকুমার-রায়.jpg" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/ঝালাপালা-নাটক-সুকুমার-রায়.jpg" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-03-13 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>সুকুমার রায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> নাটক<br/>
+            
+    <b>বিষয়:</b> শিশুসাহিত্য<br/>
+    
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+২৮
+
+সেপ্টেম্বর
+  
+২০১৫
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+১৩
+
+মার্চ
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ <entry>
+    <title>পাগলা দাশু</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/sukumar_ray/raw/master/গল্প/পাগলা_দাশু.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/পাগলা-দাশু-ছোটগল্প-সুকুমার-রায়.jpg" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/পাগলা-দাশু-ছোটগল্প-সুকুমার-রায়.jpg" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-03-13 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>সুকুমার রায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> ছোটগল্প<br/>
+            
+    <b>বিষয়:</b> শিশুসাহিত্য<br/>
+    
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+১৪
+
+জানুয়ারি
+  
+২০১৬
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+১৩
+
+মার্চ
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ <entry>
+    <title>বহুরূপী</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/sukumar_ray/raw/master/গল্প/বহুরূপী.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/বহুরূপী-ছোটগল্প-সুকুমার-রায়.jpg" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/বহুরূপী-ছোটগল্প-সুকুমার-রায়.jpg" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-03-13 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>সুকুমার রায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> ছোটগল্প<br/>
+            
+    <b>বিষয়:</b> শিশুসাহিত্য<br/>
+    
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+১৭
+
+জানুয়ারি
+  
+২০১৬
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+১৩
+
+মার্চ
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ <entry>
+    <title>বিবিধ</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/sukumar_ray/raw/master/প্রবন্ধ/বিবিধ.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/বিবিধ-প্রবন্ধ-সুকুমার-রায়.png" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/বিবিধ-প্রবন্ধ-সুকুমার-রায়.png" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2015-09-20 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>সুকুমার রায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> প্রবন্ধ<br/>
+            
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+২০
+
+সেপ্টেম্বর
+  
+২০১৫
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+২০
+
+সেপ্টেম্বর
+  
+২০১৫
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ <entry>
+    <title>ভাবুক সভা</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/sukumar_ray/raw/master/নাটক/ভাবুক_সভা.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/ভাবুক-সভা-নাটক-সুকুমার-রায়.jpg" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/ভাবুক-সভা-নাটক-সুকুমার-রায়.jpg" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-03-13 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>সুকুমার রায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> নাটক<br/>
+            
+    <b>বিষয়:</b> শিশুসাহিত্য<br/>
+    
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+২৮
+
+সেপ্টেম্বর
+  
+২০১৫
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+১৩
+
+মার্চ
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ <entry>
+    <title>মামা গো!</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/sukumar_ray/raw/master/নাটক/মামা_গো.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/মামা-গো!-নাটক-সুকুমার-রায়.jpg" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/মামা-গো!-নাটক-সুকুমার-রায়.jpg" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-03-13 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>সুকুমার রায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> নাটক<br/>
+            
+    <b>বিষয়:</b> শিশুসাহিত্য<br/>
+    
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+২৮
+
+সেপ্টেম্বর
+  
+২০১৫
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+১৩
+
+মার্চ
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ <entry>
+    <title>লক্ষ্মণের শক্তিশেল</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/sukumar_ray/raw/master/নাটক/লক্ষ্মণের_শক্তিশেল.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/লক্ষ্মণের-শক্তিশেল-নাটক-সুকুমার-রায়.png" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/লক্ষ্মণের-শক্তিশেল-নাটক-সুকুমার-রায়.png" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-03-13 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>সুকুমার রায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> নাটক<br/>
+            
+    <b>বিষয়:</b> শিশুসাহিত্য<br/>
+    
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+২৮
+
+সেপ্টেম্বর
+  
+২০১৫
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+১৩
+
+মার্চ
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ <entry>
+    <title>হ য ব র ল</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/sukumar_ray/raw/master/গল্প/হযবরল.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/হ-য-ব-র-ল-ছোটগল্প-সুকুমার-রায়.jpg" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/হ-য-ব-র-ল-ছোটগল্প-সুকুমার-রায়.jpg" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-03-13 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>সুকুমার রায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> ছোটগল্প<br/>
+            
+    <b>বিষয়:</b> শিশুসাহিত্য<br/>
+    
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+১৫
+
+সেপ্টেম্বর
+  
+২০১৫
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+১৩
+
+মার্চ
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ <entry>
+    <title>হিংসুটি</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/sukumar_ray/raw/master/নাটক/হিংসুটি.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/হিংসুটি-নাটক-সুকুমার-রায়.jpg" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/হিংসুটি-নাটক-সুকুমার-রায়.jpg" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-03-13 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>সুকুমার রায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> নাটক<br/>
+            
+    <b>বিষয়:</b> শিশুসাহিত্য<br/>
+    
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+২৮
+
+সেপ্টেম্বর
+  
+২০১৫
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+১৩
+
+মার্চ
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ 
+</feed>

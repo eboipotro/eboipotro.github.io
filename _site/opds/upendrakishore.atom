@@ -1,0 +1,737 @@
+<feed xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/" xmlns="http://www.w3.org/2005/Atom">
+  <title>উপেন্দ্রকিশোর রায়চৌধুরী</title>
+  <updated>2017-01-02T13:31:52+06:00</updated>
+  <icon>http://eboipotro.github.io/opds/icon/bibhutibhushan.png</icon>
+  <link rel="self" type="application/atom+xml" href="http://eboipotro.github.io/catalog/"/>
+  <author>
+    <name>ই-বইপত্র</name>
+    <uri>http://eboipotro.github.io</uri>
+  </author>
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ <entry>
+    <title>গল্পমালা</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/upendrakishore/raw/master/গল্প/গল্পমালা.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/গল্পমালা-ছোটগল্প-উপেন্দ্রকিশোর-রায়চৌধুরী.jpg" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/গল্পমালা-ছোটগল্প-উপেন্দ্রকিশোর-রায়চৌধুরী.jpg" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-03-13 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>উপেন্দ্রকিশোর রায়চৌধুরী</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> ছোটগল্প<br/>
+            
+    <b>বিষয়:</b> শিশুসাহিত্য<br/>
+    
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+২৮
+
+ফেব্রুয়ারি
+  
+২০১৬
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+১৩
+
+মার্চ
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ <entry>
+    <title>ছেলেদের রামায়ণ</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/upendrakishore/raw/master/গল্প/ছেলেদের_রামায়ণ.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/ছেলেদের-রামায়ণ-ছোটগল্প-উপেন্দ্রকিশোর-রায়চৌধুরী.png" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/ছেলেদের-রামায়ণ-ছোটগল্প-উপেন্দ্রকিশোর-রায়চৌধুরী.png" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-03-13 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>উপেন্দ্রকিশোর রায়চৌধুরী</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> ছোটগল্প<br/>
+            
+    <b>বিষয়:</b> শিশুসাহিত্য<br/>
+    
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+১২
+
+অক্টোবর
+  
+২০১৫
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+১৩
+
+মার্চ
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ <entry>
+    <title>টুনটুনি আর বাঘের গল্প</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/upendrakishore/raw/master/গল্প/টুনটুনি_আর_বাঘের_গল্প.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/টুনটুনি-আর-বাঘের-গল্প-ছোটগল্প-উপেন্দ্রকিশোর-রায়চৌধুরী.png" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/টুনটুনি-আর-বাঘের-গল্প-ছোটগল্প-উপেন্দ্রকিশোর-রায়চৌধুরী.png" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-03-13 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>উপেন্দ্রকিশোর রায়চৌধুরী</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> ছোটগল্প<br/>
+            
+    <b>বিষয়:</b> শিশুসাহিত্য<br/>
+    
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+১২
+
+অক্টোবর
+  
+২০১৫
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+১৩
+
+মার্চ
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ <entry>
+    <title>শিয়াল পণ্ডিত ও আরও গল্প</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/upendrakishore/raw/master/গল্প/শেয়াল_পণ্ডিত_ও_আরও_গল্প.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/শিয়াল-পণ্ডিত-ও-আরও-গল্প-ছোটগল্প-উপেন্দ্রকিশোর-রায়চৌধুরী.jpg" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/শিয়াল-পণ্ডিত-ও-আরও-গল্প-ছোটগল্প-উপেন্দ্রকিশোর-রায়চৌধুরী.jpg" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-05-03 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>উপেন্দ্রকিশোর রায়চৌধুরী</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> ছোটগল্প<br/>
+            
+    <b>বিষয়:</b> শিশুসাহিত্য<br/>
+    
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+০১
+
+জানুয়ারি
+  
+
+২০১৪
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+০৩
+
+মে
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://www.swiftboox.com" target="_blank"><b>Swiftboox</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+</feed>

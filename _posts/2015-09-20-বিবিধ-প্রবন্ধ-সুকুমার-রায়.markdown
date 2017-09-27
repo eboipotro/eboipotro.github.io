@@ -1,0 +1,21 @@
+---
+layout: post
+published: true
+title: "বিবিধ"
+tags: ["সুকুমার রায়"]
+categories: ["প্রবন্ধ"]
+img: "/images/বিবিধ-প্রবন্ধ-সুকুমার-রায়.png"
+type: "প্রবন্ধ"
+dlink: "https://github.com/eboipotro/sukumar_ray/raw/master/প্রবন্ধ/বিবিধ.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই-বইপত্র"
+   link: ""
+moddate: "2015-09-20"
+pubdate: "2015-09-20"
+comments: true
+authors: 
+ - author: "সুকুমার রায়"
+   link: "https://eboipotro.github.io/author/সুকুমার-রায়/"
+permalink: "/library/বিবিধ-প্রবন্ধ-সুকুমার-রায়/"
+---

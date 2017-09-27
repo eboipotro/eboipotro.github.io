@@ -1,0 +1,22 @@
+---
+layout: post
+published: true
+title: "গল্পমালা"
+tags: ["উপেন্দ্রকিশোর রায়চৌধুরী"]
+categories: ["শিশুসাহিত্য", "ছোটগল্প"]
+img: "/images/গল্পমালা-ছোটগল্প-উপেন্দ্রকিশোর-রায়চৌধুরী.jpg"
+type: "ছোটগল্প"
+subject: ["শিশুসাহিত্য"]
+dlink: "https://github.com/eboipotro/upendrakishore/raw/master/গল্প/গল্পমালা.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই-বইপত্র"
+   link: ""
+moddate: "2016-03-13"
+pubdate: "2016-02-28"
+comments: true
+authors: 
+ - author: "উপেন্দ্রকিশোর রায়চৌধুরী"
+   link: "https://eboipotro.github.io/author/উপেন্দ্রকিশোর-রায়চৌধুরী/"
+permalink: "/library/গল্পমালা-ছোটগল্প-উপেন্দ্রকিশোর-রায়চৌধুরী/"
+---

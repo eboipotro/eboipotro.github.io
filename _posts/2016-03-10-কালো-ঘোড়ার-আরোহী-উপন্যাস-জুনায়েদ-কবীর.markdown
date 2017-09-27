@@ -1,0 +1,21 @@
+---
+layout: post
+published: true
+title: "কালো ঘোড়ার আরোহী"
+tags: ["জুনায়েদ কবীর"]
+categories: ["উপন্যাস"]
+img: "/images/কালো-ঘোড়ার-আরোহী-উপন্যাস-জুনায়েদ-কবীর.jpeg"
+type: "উপন্যাস"
+dlink: "https://github.com/eboipotro/boidweep/raw/master/Books/কালো_ঘোড়ার_আরোহী.epub"
+lang: "bn"
+publishers: 
+ - publisher: "বইদ্বীপ"
+   link: "http://www.boidweep.com/"
+moddate: "2016-03-10"
+pubdate: "2013-10-01"
+comments: true
+authors: 
+ - author: "জুনায়েদ কবীর"
+   link: "https://eboipotro.github.io/author/জুনায়েদ-কবীর/"
+permalink: "/library/কালো-ঘোড়ার-আরোহী-উপন্যাস-জুনায়েদ-কবীর/"
+---

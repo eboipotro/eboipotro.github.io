@@ -1,0 +1,31 @@
+---
+layout: post
+published: true
+title: "চর্যাপদ"
+tags: ["প্রাচীন কবি", "সুব্রত অগাস্টিন গোমেজ"]
+categories: ["অনুবাদ", "কবিতা"]
+img: "/images/চর্যাপদ-কবিতা-প্রাচীন-কবি.jpg"
+type: "কবিতা"
+subject: ["অনুবাদ"]
+dlink: "https://github.com/eboipotro/folk/raw/master/কবিতা/চর্যাপদ.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই-বইপত্র"
+   link: ""
+moddate: "2016-05-07"
+pubdate: "2015-12-09"
+comments: true
+authors: 
+ - author: "প্রাচীন কবি"
+   link: "https://eboipotro.github.io/author/প্রাচীন-কবি/"
+translators: 
+ - translator: "সুব্রত অগাস্টিন গোমেজ"
+   link: "https://eboipotro.github.io/author/সুব্রত-অগাস্টিন-গোমেজ/"
+illustrators: 
+ - illustrator: "উৎসব রায়"
+   link: "https://uroybd.github.io"
+editors: 
+ - editor: "উৎসব রায়"
+   link: "https://uroybd.github.io"
+permalink: "/library/চর্যাপদ-কবিতা-প্রাচীন-কবি/"
+---

@@ -1,0 +1,21 @@
+---
+layout: post
+published: true
+title: "পদ্মা নদীর মাঝি"
+tags: ["মানিক বন্দ্যোপাধ্যায়"]
+categories: ["উপন্যাস"]
+img: "/images/পদ্মা-নদীর-মাঝি-উপন্যাস-মানিক-বন্দ্যোপাধ্যায়.jpg"
+type: "উপন্যাস"
+dlink: "https://github.com/eboipotro/manik_bandyapadhyay/raw/master/উপন্যাস/পদ্মা_নদীর_মাঝি.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই-বইপত্র"
+   link: ""
+moddate: "2016-04-19"
+pubdate: "2016-04-18"
+comments: true
+authors: 
+ - author: "মানিক বন্দ্যোপাধ্যায়"
+   link: "https://eboipotro.github.io/author/মানিক-বন্দ্যোপাধ্যায়/"
+permalink: "/library/পদ্মা-নদীর-মাঝি-উপন্যাস-মানিক-বন্দ্যোপাধ্যায়/"
+---

@@ -1,0 +1,20 @@
+<div class="related">
+	{% for auth in page.tags %}
+	{% if auth.posts.size > 1 %}
+	<h2>{{ auth }}-এর আরো বই:</h2>
+	<ul class="related-posts">
+	{% for post in site.tags.[auth] %}
+	 {% if page != post and forloop.index < 4 %}
+	  <li>
+      <h3>
+	<a href="{{ post.url }}">
+	  {{ post.title }}
+	  <small>{% include bangla-post-date.html %}</small>
+	</a>
+      </h3>
+    </li>
+    {% endif %}
+    {% endfor %}
+    {% endif %}
+    {% endfor %}
+</div>

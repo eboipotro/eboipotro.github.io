@@ -1,0 +1,21 @@
+---
+layout: post
+published: true
+title: "ছাদের কার্ণিশে কাক"
+tags: ["আনোয়ার সাদাত শিমুল"]
+categories: ["উপন্যাস"]
+img: "/images/ছাদের-কার্ণিশে-কাক-উপন্যাস-আনোয়ার-সাদাত-শিমুল.jpeg"
+type: "উপন্যাস"
+dlink: "https://github.com/eboipotro/boidweep/raw/master/Books/ছাদের_কার্ণিশে_কাক.epub"
+lang: "bn"
+publishers: 
+ - publisher: "বইদ্বীপ"
+   link: "http://www.boidweep.com/"
+moddate: "2016-03-10"
+pubdate: "2012-01-01"
+comments: true
+authors: 
+ - author: "আনোয়ার সাদাত শিমুল"
+   link: "https://eboipotro.github.io/author/আনোয়ার-সাদাত-শিমুল/"
+permalink: "/library/ছাদের-কার্ণিশে-কাক-উপন্যাস-আনোয়ার-সাদাত-শিমুল/"
+---

@@ -1,0 +1,56 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+  <ModulePrefs title="Recent Books"
+    description="Add recentbooks in Mail"
+    height="20"
+    author="Utsob Roy"
+    author_email="uroybd@gmail.com"
+    author_location="Dhaka, Bangladesh">
+
+    <!-- Declare feature dependencies. -->
+
+    <!-- This one is not specific to Gmail contextual gadgets. -->
+    <Require feature="dynamic-height"/>
+
+    <!-- The next feature, Caja, is optional, and is supported for
+     use only within test domains. Uncomment the tag only for
+     non-production gadgets. -->
+    <!-- <Require feature="caja"/> -->
+
+    <!-- The next feature, google.contentmatch, is required for all
+     Gmail contextual gadgets.
+     <Param> - specify one or more comma-separated extractor IDs in
+     a param named "extractors". This line is overridden by the extractor ID
+     in the manifest, but is still expected to be present. -->
+    <Require feature="google.contentmatch">
+      <Param name="extractors">
+        google.com:RecentBooks
+      </Param>
+    </Require>
+
+  </ModulePrefs>
+
+  <!-- Define the content type and display location. The settings
+   "html" and "card" are required for all Gmail contextual gadgets. -->
+  <Content type="html" view="card">
+    <![CDATA[
+      <!-- Start with Single Sign-On -->
+      <link href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
+      <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+      <div id="links" class="list-group">
+      </div>
+      <script type="text/javascript">
+        <!-- Fetch the array of content matches. -->
+        matches = google.contentmatch.getContentMatches();
+	var sender = matches[0]["sender_email"];
+        var m = /^.*\b(uroybd.github.io)\b.*$/.test(sender);
+	if (m) {
+	
+}
+	</script>
+    ]]>
+  </Content>
+</Module>

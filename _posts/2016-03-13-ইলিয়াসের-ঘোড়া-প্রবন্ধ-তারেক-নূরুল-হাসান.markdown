@@ -1,0 +1,22 @@
+---
+layout: post
+published: true
+title: "ইলিয়াসের ঘোড়া"
+tags: ["তারেক নূরুল হাসান"]
+categories: ["প্রবন্ধ", "প্রবন্ধ"]
+img: "/images/ইলিয়াসের-ঘোড়া-প্রবন্ধ-তারেক-নূরুল-হাসান.jpeg"
+type: "প্রবন্ধ"
+subject: ["প্রবন্ধ"]
+dlink: "https://github.com/eboipotro/boidweep/raw/master/Books/ইলিয়াসের_ঘোড়া.epub"
+lang: "bn"
+publishers: 
+ - publisher: "বইদ্বীপ"
+   link: "http://www.boidweep.com"
+moddate: "2016-03-13"
+pubdate: "2012-12-01"
+comments: true
+authors: 
+ - author: "তারেক নূরুল হাসান"
+   link: "https://eboipotro.github.io/author/তারেক-নূরুল-হাসান/"
+permalink: "/library/ইলিয়াসের-ঘোড়া-প্রবন্ধ-তারেক-নূরুল-হাসান/"
+---

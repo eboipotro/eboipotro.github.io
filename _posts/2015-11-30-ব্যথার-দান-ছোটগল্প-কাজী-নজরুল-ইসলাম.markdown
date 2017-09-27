@@ -1,0 +1,21 @@
+---
+layout: post
+published: true
+title: "ব্যথার দান"
+tags: ["কাজী নজরুল ইসলাম"]
+categories: ["ছোটগল্প"]
+img: "/images/ব্যথার-দান-ছোটগল্প-কাজী-নজরুল-ইসলাম.png"
+type: "ছোটগল্প"
+dlink: "https://github.com/eboipotro/nazrul_islam/raw/master/গল্প/ব্যথার_দান.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই-বইপত্র"
+   link: ""
+moddate: "2015-11-30"
+pubdate: "2015-11-30"
+comments: true
+authors: 
+ - author: "কাজী নজরুল ইসলাম"
+   link: "https://eboipotro.github.io/author/কাজী-নজরুল-ইসলাম/"
+permalink: "/library/ব্যথার-দান-ছোটগল্প-কাজী-নজরুল-ইসলাম/"
+---

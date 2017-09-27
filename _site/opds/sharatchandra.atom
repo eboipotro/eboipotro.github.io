@@ -1,0 +1,1572 @@
+<feed xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/" xmlns="http://www.w3.org/2005/Atom">
+  <title>শরৎচন্দ্র চট্টোপাধ্যায়</title>
+  <updated>2017-01-02T13:31:52+06:00</updated>
+  <icon>http://eboipotro.github.io/opds/icon/bibhutibhushan.png</icon>
+  <link rel="self" type="application/atom+xml" href="http://eboipotro.github.io/catalog/"/>
+  <author>
+    <name>ই-বইপত্র</name>
+    <uri>http://eboipotro.github.io</uri>
+  </author>
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ <entry>
+    <title>গৃহদাহ</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/গৃহদাহ.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/গৃহদাহ-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.jpg" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/গৃহদাহ-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.jpg" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-03-15 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>শরৎচন্দ্র চট্টোপাধ্যায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> উপন্যাস<br/>
+            
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+১৫
+
+মার্চ
+  
+২০১৬
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+১৫
+
+মার্চ
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ <entry>
+    <title>চরিত্রহীন</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/চরিত্রহীন.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/চরিত্রহীন-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.png" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/চরিত্রহীন-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.png" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-01-26 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>শরৎচন্দ্র চট্টোপাধ্যায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> উপন্যাস<br/>
+            
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+০৬
+
+জানুয়ারি
+  
+২০১৬
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+২৬
+
+জানুয়ারি
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ <entry>
+    <title>দত্তা</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/দত্তা.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/দত্তা-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.png" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/দত্তা-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.png" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-01-26 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>শরৎচন্দ্র চট্টোপাধ্যায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> উপন্যাস<br/>
+            
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+১৭
+
+জানুয়ারি
+  
+২০১৬
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+২৬
+
+জানুয়ারি
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ <entry>
+    <title>দেনা-পাওনা</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/দেনা-পাওনা.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/দেনা-পাওনা-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.jpg" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/দেনা-পাওনা-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.jpg" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-01-26 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>শরৎচন্দ্র চট্টোপাধ্যায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> উপন্যাস<br/>
+            
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+২৬
+
+জানুয়ারি
+  
+২০১৬
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+২৬
+
+জানুয়ারি
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ <entry>
+    <title>দেবদাস</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/দেবদাস.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/দেবদাস-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.jpg" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/দেবদাস-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.jpg" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-03-06 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>শরৎচন্দ্র চট্টোপাধ্যায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> উপন্যাস<br/>
+            
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+০৬
+
+মার্চ
+  
+২০১৬
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+০৬
+
+মার্চ
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ <entry>
+    <title>পণ্ডিতমশাই</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/পণ্ডিতমশাই.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/পণ্ডিতমশাই-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.jpg" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/পণ্ডিতমশাই-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.jpg" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-01-28 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>শরৎচন্দ্র চট্টোপাধ্যায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> উপন্যাস<br/>
+            
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+২৮
+
+জানুয়ারি
+  
+২০১৬
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+২৮
+
+জানুয়ারি
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ <entry>
+    <title>পথের দাবী</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/পথের_দাবী.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/পথের-দাবী-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.png" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/পথের-দাবী-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.png" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-01-26 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>শরৎচন্দ্র চট্টোপাধ্যায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> উপন্যাস<br/>
+            
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+০৭
+
+অক্টোবর
+  
+২০১৫
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+২৬
+
+জানুয়ারি
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ <entry>
+    <title>পরিণীতা</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/পরিণীতা.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/পরিণীতা-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.jpg" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/পরিণীতা-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.jpg" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-01-31 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>শরৎচন্দ্র চট্টোপাধ্যায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> উপন্যাস<br/>
+            
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+৩১
+
+জানুয়ারি
+  
+২০১৬
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+৩১
+
+জানুয়ারি
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ <entry>
+    <title>পল্লীসমাজ</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/পল্লী-সমাজ.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/পল্লীসমাজ-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.jpg" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/পল্লীসমাজ-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.jpg" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-02-02 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>শরৎচন্দ্র চট্টোপাধ্যায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> উপন্যাস<br/>
+            
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+০২
+
+ফেব্রুয়ারি
+  
+২০১৬
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+০২
+
+ফেব্রুয়ারি
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ <entry>
+    <title>বামুনের মেয়ে</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/বামুনের_মেয়ে.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/বামুনের-মেয়ে-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.jpg" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/বামুনের-মেয়ে-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.jpg" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-01-28 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>শরৎচন্দ্র চট্টোপাধ্যায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            <b>সম্পাদক: </b>সাইফুল ইসলাম প্লাবন<br/>
+            
+        <b>অলঙ্করণ: </b>উৎসব রায়<br/>
+        <b>ধরণ:</b> উপন্যাস<br/>
+            
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+১৯
+
+জানুয়ারি
+  
+২০১৬
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+২৮
+
+জানুয়ারি
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ <entry>
+    <title>বিপ্রদাস</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/বিপ্রদাস.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/বিপ্রদাস-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.png" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/বিপ্রদাস-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.png" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-01-26 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>শরৎচন্দ্র চট্টোপাধ্যায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> উপন্যাস<br/>
+            
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+০৪
+
+জানুয়ারি
+  
+২০১৬
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+২৬
+
+জানুয়ারি
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ 
+  
+ <entry>
+    <title>বিরাজবৌ</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/বিরাজবৌ.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/বিরাজবৌ-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.jpg" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/বিরাজবৌ-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.jpg" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-03-02 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>শরৎচন্দ্র চট্টোপাধ্যায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> উপন্যাস<br/>
+            
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+০২
+
+মার্চ
+  
+২০১৬
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+০২
+
+মার্চ
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ <entry>
+    <title>বৈকুন্ঠের উইল</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/বৈকুন্ঠের_উইল.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/বৈকুন্ঠের-উইল-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.jpg" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/বৈকুন্ঠের-উইল-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.jpg" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-03-02 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>শরৎচন্দ্র চট্টোপাধ্যায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> উপন্যাস<br/>
+            
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+০২
+
+মার্চ
+  
+২০১৬
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+০২
+
+মার্চ
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ <entry>
+    <title>বড়দিদি</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/বড়দিদি.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/বড়দিদি-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.jpg" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/বড়দিদি-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.jpg" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-03-06 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>শরৎচন্দ্র চট্টোপাধ্যায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> উপন্যাস<br/>
+            
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+০৬
+
+মার্চ
+  
+২০১৬
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+০৬
+
+মার্চ
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ <entry>
+    <title>শেষ প্রশ্ন</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/শেষ_প্রশ্ন.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/শেষ-প্রশ্ন-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.jpg" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/শেষ-প্রশ্ন-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.jpg" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-01-28 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>শরৎচন্দ্র চট্টোপাধ্যায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            <b>সম্পাদক: </b>সাইফুল ইসলাম প্লাবন ( https://www.facebook.com/i.m.saiful )<br/>
+            
+        <b>অলঙ্করণ: </b>উৎসব রায়<br/>
+        <b>ধরণ:</b> উপন্যাস<br/>
+            
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+১৯
+
+জানুয়ারি
+  
+২০১৬
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+২৮
+
+জানুয়ারি
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ <entry>
+    <title>শ্রীকান্ত - ১ম পর্ব</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/শ্রীকান্ত-১ম_পর্ব.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/শ্রীকান্ত-১ম-পর্ব-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.png" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/শ্রীকান্ত-১ম-পর্ব-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.png" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-01-26 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>শরৎচন্দ্র চট্টোপাধ্যায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> উপন্যাস<br/>
+            
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+২৬
+
+জানুয়ারি
+  
+২০১৬
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+২৬
+
+জানুয়ারি
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ <entry>
+    <title>শ্রীকান্ত - ২য় পর্ব</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/শ্রীকান্ত-২য়_পর্ব.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/শ্রীকান্ত-২য়-পর্ব-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.png" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/শ্রীকান্ত-২য়-পর্ব-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.png" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-01-26 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>শরৎচন্দ্র চট্টোপাধ্যায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> উপন্যাস<br/>
+            
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+২৬
+
+জানুয়ারি
+  
+২০১৬
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+২৬
+
+জানুয়ারি
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ <entry>
+    <title>শ্রীকান্ত - ৩য় পর্ব</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/শ্রীকান্ত-৩য়_পর্ব.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/শ্রীকান্ত-৩য়-পর্ব-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.png" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/শ্রীকান্ত-৩য়-পর্ব-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.png" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-01-26 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>শরৎচন্দ্র চট্টোপাধ্যায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> উপন্যাস<br/>
+            
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+২০
+
+সেপ্টেম্বর
+  
+২০১৫
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+২৬
+
+জানুয়ারি
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ <entry>
+    <title>শ্রীকান্ত - ৪র্থ পর্ব</title>
+    <updated>2017-01-02T13:31:52+06:00</updated>
+    <link href="https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/শ্রীকান্ত-৪র্থ_পর্ব.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="/images/শ্রীকান্ত-৪র্থ-পর্ব-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.png" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="/images/শ্রীকান্ত-৪র্থ-পর্ব-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.png" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2016-01-26 00:00:00 +0600</dcterms:issued>
+    
+    <author>
+      <name>শরৎচন্দ্র চট্টোপাধ্যায়</name>
+    </author>
+    
+    <dcterms:publisher></dcterms:publisher>
+    <dcterms:language>bn</dcterms:language>
+    <content type="text/html">
+      <p>
+    
+            
+            
+        <b>ধরণ:</b> উপন্যাস<br/>
+            
+    <b>ভাষা:</b> 
+বাঙলা
+
+<br/>
+    <b>প্রথম সংস্করণ:</b> 
+
+
+২০
+
+সেপ্টেম্বর
+  
+২০১৫
+
+<br/>
+    <b>সর্বশেষ সংস্করণ:</b> 
+
+
+২৬
+
+জানুয়ারি
+  
+২০১৬
+
+<br/>
+    <b>প্রকাশক:</b> 
+    
+    
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    
+    
+    
+      </p>
+    </content>
+ </entry>
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+</feed>

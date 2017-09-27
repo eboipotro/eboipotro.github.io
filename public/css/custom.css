@@ -1,0 +1,240 @@
+input[type="text"]
+{
+ border: 1px solid #4195fc;
+ display: block;
+ margin: 1em auto;
+ width: 100%;
+ font-family: 'Noto Sans Bengali UI', sans-serif;
+ font-size: 18px;
+ appearance: none;
+ box-shadow: none;
+ border-color:1px solid lightgrey;
+ border-width: 1px;
+ background-color:#ffffff;
+ color:#000000;
+ padding: 1em;
+ -webkit-border-radius: 4px;
+ -moz-border-radius: 4px;
+ border-radius: 4px;
+}
+
+input[type="text"]:focus
+{
+ border: 1px solid #4195fc;
+ outline: none;
+ color:#000000;
+ padding: 1em;
+ border-color: #9ecaed;
+ box-shadow: 0 0 10px #9ecaed;
+ -webkit-border-radius: 4px;
+ -moz-border-radius: 4px;
+ border-radius: 4px;
+}
+
+#social table
+{
+border: none;
+cellspacing: 0;
+cellpadding: 0;
+align: center;
+}
+
+#social img
+{
+height: 40;
+width: 40;
+align: center;
+border: none;
+padding: 0px;
+}
+
+#social tr td
+{
+ height: 40;
+ align: center;
+ width: 40;
+ border: none;
+ background-color: #202020;
+}
+
+.tag-cloud {
+  list-style: none;
+  padding: 0;
+  text-align: justify; 
+  font-size: 16px;
+  li {
+    display: inline-block;
+    margin: 0 12px 12px 0; 
+  }
+}
+#archives {
+  padding: 5px;
+}
+.archive-group {
+  margin: 5px;
+  border-top: 1px solid #ddd;
+}
+.archive-item {
+  margin-left: 5px;
+}
+.post-tags {
+  text-align: right;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.sticky-post {
+h1 {
+background-color:rgba(32,32,32,0.8);
+text-align:center;
+color: #ffffff
+}
+}
+
+
+li
+{
+    list-style-type: none;
+    cursor: pointer;
+    cursor: hand;
+}
+
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 18px;  /* Preferred icon size */
+  display: inline-block;
+  vertical-align: middle;
+  width: 1em;
+  height: 1em;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+
+  /* Support for all WebKit browsers. */
+  -webkit-font-smoothing: antialiased;
+  /* Support for Safari and Chrome. */
+  text-rendering: optimizeLegibility;
+
+  /* Support for Firefox. */
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Support for IE. */
+  font-feature-settings: 'liga';
+  
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+}
+/*
+ * Pagination
+ *
+ * Super lightweight (HTML-wise) blog pagination. `span`s are provide for when
+ * there are no more previous or next posts to show.
+ */
+
+.pagination {
+  overflow: hidden; /* clearfix */
+  margin-left: -1rem;
+  margin-right: -1rem;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  color: #ccc;
+  text-align: center;
+}
+
+/* Pagination items can be `span`s or `a`s */
+.pagination-item {
+  display: block;
+  padding: 1rem;
+  border: 1px solid #eee;
+}
+.pagination-item:first-child {
+  margin-bottom: -1px;
+}
+
+/* Only provide a hover state for linked pagination items */
+a.pagination-item:hover {
+  background-color: #f5f5f5;
+}
+
+@media (min-width: 30rem) {
+  .pagination {
+    margin: 3rem 0;
+  }
+  .pagination-item {
+    float: left;
+    width: 50%;
+  }
+  .pagination-item:first-child {
+    margin-bottom: 0;
+    border-top-left-radius:    4px;
+    border-bottom-left-radius: 4px;
+  }
+  .pagination-item:last-child {
+    margin-left: -1px;
+    border-top-right-radius:    4px;
+    border-bottom-right-radius: 4px;
+  }
+}
+
+li:empty {
+    display: none;
+}
+
+ul:empty {
+    display: none;
+}
+
+#owl-demo .item{
+  margin: 3px;
+}
+#owl-demo .item img{
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+a.back-to-top {
+ 	display: none;
+ 	text-indent: -9999px;
+ 	position: fixed;
+ 	z-index: 999;
+ 	right: 20px;
+ 	bottom: 20px;
+}
+
+.collps a {
+color: inherit;
+text-decoration: none;
+}
+
+:target {
+  font-size: 2rem;
+}
+
+.banner {
+ 	position: fixed;
+ 	z-index: 999;
+ 	top: 10px;
+     margin-right: 0px;
+ 	width: 90%;
+     color: white;
+     background-color: red;
+     display: block;
+     font-family: 'Noto Sans Bengali UI', sans-serif;
+     font-size: 18px;
+}
+
+.button-container form,
+.button-container form div {
+    display: inline;
+}
+
+.button-container button {
+    display: inline;
+    vertical-align: middle;
+}

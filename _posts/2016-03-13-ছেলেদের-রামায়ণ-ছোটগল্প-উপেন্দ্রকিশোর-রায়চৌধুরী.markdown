@@ -1,0 +1,22 @@
+---
+layout: post
+published: true
+title: "ছেলেদের রামায়ণ"
+tags: ["উপেন্দ্রকিশোর রায়চৌধুরী"]
+categories: ["শিশুসাহিত্য", "ছোটগল্প"]
+img: "/images/ছেলেদের-রামায়ণ-ছোটগল্প-উপেন্দ্রকিশোর-রায়চৌধুরী.png"
+type: "ছোটগল্প"
+subject: ["শিশুসাহিত্য"]
+dlink: "https://github.com/eboipotro/upendrakishore/raw/master/গল্প/ছেলেদের_রামায়ণ.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই - বইপত্র"
+   link: ""
+moddate: "2016-03-13"
+pubdate: "2015-10-12"
+comments: true
+authors: 
+ - author: "উপেন্দ্রকিশোর রায়চৌধুরী"
+   link: "https://eboipotro.github.io/author/উপেন্দ্রকিশোর-রায়চৌধুরী/"
+permalink: "/library/ছেলেদের-রামায়ণ-ছোটগল্প-উপেন্দ্রকিশোর-রায়চৌধুরী/"
+---

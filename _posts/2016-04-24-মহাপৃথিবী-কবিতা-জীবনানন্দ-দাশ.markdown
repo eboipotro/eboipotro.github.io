@@ -1,0 +1,21 @@
+---
+layout: post
+published: true
+title: "মহাপৃথিবী"
+tags: ["জীবনানন্দ দাশ"]
+categories: ["কবিতা"]
+img: "/images/মহাপৃথিবী-কবিতা-জীবনানন্দ-দাশ.jpg"
+type: "কবিতা"
+dlink: "https://github.com/eboipotro/jibanananda_das/raw/master/কবিতা/মহাপৃথিবী.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই-বইপত্র"
+   link: ""
+moddate: "2016-04-24"
+pubdate: "2016-02-10"
+comments: true
+authors: 
+ - author: "জীবনানন্দ দাশ"
+   link: "https://eboipotro.github.io/author/জীবনানন্দ-দাশ/"
+permalink: "/library/মহাপৃথিবী-কবিতা-জীবনানন্দ-দাশ/"
+---

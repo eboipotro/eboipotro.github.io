@@ -1,0 +1,7 @@
+{% assign y = pub.date | date: "%-Y" %}
+{% case y %}
+{% when '2015' %}২০১৫
+{% when '2016' %}২০১৬
+{% else %}
+{{ y | replace:'0','০' | replace:'1','১' | replace:'2','২' | replace:'3','৩' | replace:'4','৪' | replace:'5','৫' | replace:'6','৬' | replace:'7','৭' | replace:'8','৮' | replace:'9','৯'}}
+{% endcase %}

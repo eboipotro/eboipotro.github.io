@@ -1,0 +1,2982 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed id="results" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:opds="http://opds-spec.org/2010/catalog" xml:lang="en" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.w3.org/2005/Atom">
+  <id>results.xml</id>
+  <title>ফলাফল</title>
+  <updated>2017-01-02T13:31:52+06:00</updated>
+  <author>
+    <name>ই-বইপত্র</name>
+    <uri>http://eboipotro.github.io</uri>
+  </author>
+  <link type="application/atom+xml;profile=opds-catalog;kind=acquisition" rel="self" href="results.atom"/>
+  <link type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" href="http://eboipotro.github.io/catalog"/>
+  <link type="application/opensearchdescription+xml" title="ই-বইপত্রে খুঁজুন" rel="search" href="/opds/opensearch.atom" />
+  
+  <opensearch:totalResults>3</opensearch:totalResults>
+
+</feed>
+<body style="display: none;">
+<script>
+	var JEKYLL_POSTS = [];
+	
+	JEKYLL_POSTS.push({
+		title: "শিক্ষা",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/শিক্ষা.epub",
+                author: "প্রবন্ধ",
+                img: "/images/শিক্ষা-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-12-26 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "ছেলেবেলা",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/ছেলেবেলা.epub",
+                author: "প্রবন্ধ",
+                img: "/images/ছেলেবেলা-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-11-19 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "পুতুলনাচের ইতিকথা",
+		dlink: "https://github.com/eboipotro/manik_bandyapadhyay/raw/master/উপন্যাস/পুতুলনাচের-ইতিকথা.epub",
+                author: "উপন্যাস",
+                img: "/images/পুতুলনাচের-ইতিকথা-উপন্যাস-মানিক-বন্দ্যোপাধ্যায়.jpeg",
+                type: "মানিক বন্দ্যোপাধ্যায়",
+                date: "2016-06-05 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "মিস্‌মিদের কবচ",
+		dlink: "https://github.com/eboipotro/bibhutibhushan/raw/master/উপন্যাস/মিসমিদের-কবচ.epub",
+                author: "শিশুসাহিত্যউপন্যাস",
+                img: "/images/মিস্‌মিদের-কবচ-উপন্যাস-বিভূতিভূষণ-বন্দ্যোপাধ্যায়.jpeg",
+                type: "বিভূতিভূষণ বন্দ্যোপাধ্যায়",
+                date: "2016-05-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "রোগশয্যায়",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/রোগশয্যায়.epub",
+                author: "কবিতা",
+                img: "/images/রোগশয্যায়-কবিতা-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-05-23 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "আরোগ্য",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/আরোগ্য.epub",
+                author: "কবিতা",
+                img: "/images/আরোগ্য-কবিতা-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-05-23 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "সত্যের সন্ধান",
+		dlink: "https://github.com/eboipotro/aroj_ali_matubbar/raw/master/প্রবন্ধ/সত্যের_সন্ধান.epub",
+                author: "দর্শনধর্মবিজ্ঞানপ্রবন্ধ",
+                img: "/images/সত্যের-সন্ধান-প্রবন্ধ-আরজ-আলী-মাতুব্বর.jpg",
+                type: "আরজ আলী মাতুব্বর",
+                date: "2016-05-13 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "অনুমান",
+		dlink: "https://github.com/eboipotro/aroj_ali_matubbar/raw/master/প্রবন্ধ/অনুমান.epub",
+                author: "দর্শনধর্মবিজ্ঞানপ্রবন্ধ",
+                img: "/images/অনুমান-প্রবন্ধ-আরজ-আলী-মাতুব্বর.jpg",
+                type: "আরজ আলী মাতুব্বর",
+                date: "2016-05-13 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "রূপান্তর",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/রূপান্তর.epub",
+                author: "কবিতা",
+                img: "/images/রূপান্তর-কবিতা-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-05-07 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "চর্যাপদ",
+		dlink: "https://github.com/eboipotro/folk/raw/master/কবিতা/চর্যাপদ.epub",
+                author: "অনুবাদকবিতা",
+                img: "/images/চর্যাপদ-কবিতা-প্রাচীন-কবি.jpg",
+                type: "প্রাচীন কবিসুব্রত অগাস্টিন গোমেজ",
+                date: "2016-05-07 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "অনূদিত কবিতা",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/অনূদিত_কবিতা.epub",
+                author: "কবিতা",
+                img: "/images/অনূদিত-কবিতা-কবিতা-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-05-07 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "অনুবাদ কবিতা",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/অনুবাদ_কবিতা.epub",
+                author: "কবিতা",
+                img: "/images/অনুবাদ-কবিতা-কবিতা-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-05-07 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "মহুয়া",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/মহুয়া.epub",
+                author: "কবিতা",
+                img: "/images/মহুয়া-কবিতা-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-05-06 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "নদী",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/নদী.epub",
+                author: "কবিতা",
+                img: "/images/নদী-কবিতা-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-05-06 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "গল্পসল্প",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/গল্পসল্প.epub",
+                author: "কবিতা",
+                img: "/images/গল্পসল্প-কবিতা-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-05-06 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "শিয়াল পণ্ডিত ও আরও গল্প",
+		dlink: "https://github.com/eboipotro/upendrakishore/raw/master/গল্প/শেয়াল_পণ্ডিত_ও_আরও_গল্প.epub",
+                author: "শিশুসাহিত্যছোটগল্প",
+                img: "/images/শিয়াল-পণ্ডিত-ও-আরও-গল্প-ছোটগল্প-উপেন্দ্রকিশোর-রায়চৌধুরী.jpg",
+                type: "উপেন্দ্রকিশোর রায়চৌধুরী",
+                date: "2016-05-03 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "আপন-পর",
+		dlink: "https://github.com/eboipotro/Abanindranath/raw/master/গল্প/আপন-পর.epub",
+                author: "শিশুসাহিত্যছোটগল্প",
+                img: "/images/আপন-পর-ছোটগল্প-অবনীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "অবনীন্দ্রনাথ ঠাকুর",
+                date: "2016-05-03 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "হানাবাড়ির কারখানা",
+		dlink: "https://github.com/eboipotro/Abanindranath/raw/master/গল্প/হানাবাড়ির_কারখানা.epub",
+                author: "শিশুসাহিত্যছোটগল্প",
+                img: "/images/হানাবাড়ির-কারখানা-ছোটগল্প-অবনীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "অবনীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-28 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "স্বদেশ",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/গান/স্বদেশ.epub",
+                author: "গান",
+                img: "/images/স্বদেশ-গান-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-28 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "প্রায়শ্চিত্ত",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/নাটক/প্রায়শ্চিত্ত.epub",
+                author: "নাটক",
+                img: "/images/প্রায়শ্চিত্ত-নাটক-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-28 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "পরিশোধ",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/নাটক/পরিশোধ.epub",
+                author: "নাটক",
+                img: "/images/পরিশোধ-নাটক-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-28 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "পরিত্রাণ",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/নাটক/পরিত্রাণ.epub",
+                author: "নাটক",
+                img: "/images/পরিত্রাণ-নাটক-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-28 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "দৃষ্টি প্রদীপ",
+		dlink: "https://github.com/eboipotro/bibhutibhushan/raw/master/উপন্যাস/দৃষ্টি_প্রদীপ.epub",
+                author: "উপন্যাস",
+                img: "/images/দৃষ্টি-প্রদীপ-উপন্যাস-বিভূতিভূষণ-বন্দ্যোপাধ্যায়.jpg",
+                type: "বিভূতিভূষণ বন্দ্যোপাধ্যায়",
+                date: "2016-04-28 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "মানুষের ধর্ম",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/মানুষের_ধর্ম.epub",
+                author: "প্রবন্ধ",
+                img: "/images/মানুষের-ধর্ম-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-27 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "বাংলা শব্দতত্ত্ব",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/বাংলা_শব্দতত্ত্ব.epub",
+                author: "প্রবন্ধ",
+                img: "/images/বাংলা-শব্দতত্ত্ব-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-27 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "ঝরা পালক",
+		dlink: "https://github.com/eboipotro/jibanananda_das/raw/master/কবিতা/ঝরা_পালক.epub",
+                author: "কবিতা",
+                img: "/images/ঝরা-পালক-কবিতা-জীবনানন্দ-দাশ.jpg",
+                type: "জীবনানন্দ দাশ",
+                date: "2016-04-27 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "খাই খাই",
+		dlink: "https://github.com/eboipotro/sukumar_ray/raw/master/কবিতা/খাই_খাই.epub",
+                author: "শিশুসাহিত্যকবিতা",
+                img: "/images/খাই-খাই-কবিতা-সুকুমার-রায়.jpg",
+                type: "সুকুমার রায়",
+                date: "2016-04-25 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "সোনার তরী",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/সোনার_তরী.epub",
+                author: "কবিতা",
+                img: "/images/সোনার-তরী-কবিতা-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "সেঁজুতি",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/সেঁজুতি.epub",
+                author: "কবিতা",
+                img: "/images/সেঁজুতি-কবিতা-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "সানাই",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/সানাই.epub",
+                author: "কবিতা",
+                img: "/images/সানাই-কবিতা-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "সাতটি তারার তিমির",
+		dlink: "https://github.com/eboipotro/jibanananda_das/raw/master/কবিতা/সাতটি_তারার_তিমির.epub",
+                author: "কবিতা",
+                img: "/images/সাতটি-তারার-তিমির-কবিতা-জীবনানন্দ-দাশ.jpg",
+                type: "জীবনানন্দ দাশ",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "সন্ধ্যাসংগীত",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/সন্ধ্যাসংগীত.epub",
+                author: "কবিতা",
+                img: "/images/সন্ধ্যাসংগীত-কবিতা-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "শ্রেষ্ঠ কবিতা",
+		dlink: "https://github.com/eboipotro/jibanananda_das/raw/master/কবিতা/শ্রেষ্ঠ_কবিতা.epub",
+                author: "কবিতা",
+                img: "/images/শ্রেষ্ঠ-কবিতা-কবিতা-জীবনানন্দ-দাশ.jpg",
+                type: "জীবনানন্দ দাশ",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "শ্যামলী",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/শ্যামলী.epub",
+                author: "কবিতা",
+                img: "/images/শ্যামলী-কবিতা-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "শেষ লেখা",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/শেষ_লেখা.epub",
+                author: "কবিতা",
+                img: "/images/শেষ-লেখা-কবিতা-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "শিশু ভোলানাথ",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/শিশু_ভোলানাথ.epub",
+                author: "কবিতা",
+                img: "/images/শিশু-ভোলানাথ-কবিতা-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "শিশু",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/শিশু.epub",
+                author: "কবিতা",
+                img: "/images/শিশু-কবিতা-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "রূপসী বাংলা",
+		dlink: "https://github.com/eboipotro/jibanananda_das/raw/master/কবিতা/রূপসী_বাংলা.epub",
+                author: "কবিতা",
+                img: "/images/রূপসী-বাংলা-কবিতা-জীবনানন্দ-দাশ.jpg",
+                type: "জীবনানন্দ দাশ",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "মানসী",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/মানসী.epub",
+                author: "কবিতা",
+                img: "/images/মানসী-কবিতা-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "মহাপৃথিবী",
+		dlink: "https://github.com/eboipotro/jibanananda_das/raw/master/কবিতা/মহাপৃথিবী.epub",
+                author: "কবিতা",
+                img: "/images/মহাপৃথিবী-কবিতা-জীবনানন্দ-দাশ.jpg",
+                type: "জীবনানন্দ দাশ",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "ভানুসিংহ ঠাকুরের পদাবলী",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/ভানুসিংহ_ঠাকুরের_পদাবলী.epub",
+                author: "কবিতা",
+                img: "/images/ভানুসিংহ-ঠাকুরের-পদাবলী-কবিতা-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "বেলা অবেলা কালবেলা",
+		dlink: "https://github.com/eboipotro/jibanananda_das/raw/master/কবিতা/বেলা_অবেলা_কালবেলা.epub",
+                author: "কবিতা",
+                img: "/images/বেলা-অবেলা-কালবেলা-কবিতা-জীবনানন্দ-দাশ.jpg",
+                type: "জীবনানন্দ দাশ",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "বীথিকা",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/বীথিকা.epub",
+                author: "কবিতা",
+                img: "/images/বীথিকা-কবিতা-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "বিচিত্রিতা",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/বিচিত্রিতা.epub",
+                author: "কবিতা",
+                img: "/images/বিচিত্রিতা-কবিতা-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "বলাকা",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/বলাকা.epub",
+                author: "কবিতা",
+                img: "/images/বলাকা-কবিতা-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "বনলতা সেন",
+		dlink: "https://github.com/eboipotro/jibanananda_das/raw/master/কবিতা/বনলতা_সেন.epub",
+                author: "কবিতা",
+                img: "/images/বনলতা-সেন-কবিতা-জীবনানন্দ-দাশ.png",
+                type: "জীবনানন্দ দাশ",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "বনবাণী",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/বনবাণী.epub",
+                author: "কবিতা",
+                img: "/images/বনবাণী-কবিতা-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "প্রান্তিক",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/প্রান্তিক.epub",
+                author: "কবিতা",
+                img: "/images/প্রান্তিক-কবিতা-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "প্রহাসিনী",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/প্রহাসিনী.epub",
+                author: "কবিতা",
+                img: "/images/প্রহাসিনী-কবিতা-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "প্রভাতসংগীত",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/প্রভাতসংগীত.epub",
+                author: "কবিতা",
+                img: "/images/প্রভাতসংগীত-কবিতা-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "পূরবী",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/পূরবী.epub",
+                author: "কবিতা",
+                img: "/images/পূরবী-কবিতা-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "পুনশ্চ",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/পুনশ্চ.epub",
+                author: "কবিতা",
+                img: "/images/পুনশ্চ-কবিতা-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "পলাতকা",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/পলাতকা.epub",
+                author: "কবিতা",
+                img: "/images/পলাতকা-কবিতা-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "পরিশেষ",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/পরিশেষ.epub",
+                author: "কবিতা",
+                img: "/images/পরিশেষ-কবিতা-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "পত্রপুট",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/পত্রপুট.epub",
+                author: "কবিতা",
+                img: "/images/পত্রপুট-কবিতা-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "নৈবেদ্য",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/নৈবেদ্য.epub",
+                author: "কবিতা",
+                img: "/images/নৈবেদ্য-কবিতা-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "নবজাতক",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/নবজাতক.epub",
+                author: "কবিতা",
+                img: "/images/নবজাতক-কবিতা-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "নকশী কাঁথার মাঠ",
+		dlink: "https://github.com/eboipotro/jasimuddin/raw/master/কবিতা/নকশীকাঁথার_মাঠ.epub",
+                author: "কবিতা",
+                img: "/images/নকশী-কাঁথার-মাঠ-কবিতা-জসীম-উদ্-দীন.png",
+                type: "জসীম উদ্ দীন",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "ধূসর পাণ্ডুলিপি",
+		dlink: "https://github.com/eboipotro/jibanananda_das/raw/master/কবিতা/ধূসর_পাণ্ডুলিপি.epub",
+                author: "কবিতা",
+                img: "/images/ধূসর-পাণ্ডুলিপি-কবিতা-জীবনানন্দ-দাশ.jpg",
+                type: "জীবনানন্দ দাশ",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "জন্মদিনে",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/জন্মদিনে.epub",
+                author: "কবিতা",
+                img: "/images/জন্মদিনে-কবিতা-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "ছড়ার ছবি",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/ছড়ার_ছবি.epub",
+                author: "কবিতা",
+                img: "/images/ছড়ার-ছবি-কবিতা-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "ছড়া",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/ছড়া.epub",
+                author: "কবিতা",
+                img: "/images/ছড়া-কবিতা-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "ছাড়পত্র",
+		dlink: "https://github.com/eboipotro/sukanto/raw/master/কবিতা/ছাড়পত্র.epub",
+                author: "কবিতা",
+                img: "/images/ছাড়পত্র-কবিতা-সুকান্ত-ভট্টাচার্য.jpg",
+                type: "সুকান্ত ভট্টাচার্য",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "ছবি ও গান",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/ছবি_ও_গান.epub",
+                author: "কবিতা",
+                img: "/images/ছবি-ও-গান-কবিতা-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "চৈতালি",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/চৈতালি.epub",
+                author: "কবিতা",
+                img: "/images/চৈতালি-কবিতা-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "চিত্রা",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/চিত্রা.epub",
+                author: "কবিতা",
+                img: "/images/চিত্রা-কবিতা-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "চিত্রবিচিত্র",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/চিত্রবিচিত্র.epub",
+                author: "কবিতা",
+                img: "/images/চিত্রবিচিত্র-কবিতা-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "গীতিমাল্য",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/গীতিমাল্য.epub",
+                author: "কবিতা",
+                img: "/images/গীতিমাল্য-কবিতা-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "গীতালি",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/গীতালি.epub",
+                author: "কবিতা",
+                img: "/images/গীতালি-কবিতা-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "গীতাঞ্জলী",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/গীতাঞ্জলী.epub",
+                author: "কবিতা",
+                img: "/images/গীতাঞ্জলী-কবিতা-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "খেয়া",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/খেয়া.epub",
+                author: "কবিতা",
+                img: "/images/খেয়া-কবিতা-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "খাপছাড়া",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/খাপছাড়া.epub",
+                author: "কবিতা",
+                img: "/images/খাপছাড়া-কবিতা-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "কড়ি ও কোমল",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/কড়ি_ও_কোমল.epub",
+                author: "কবিতা",
+                img: "/images/কড়ি-ও-কোমল-কবিতা-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "ক্ষণিকা",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/ক্ষণিকা.epub",
+                author: "কবিতা",
+                img: "/images/ক্ষণিকা-কবিতা-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "কাহিনী",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/কাহিনী.epub",
+                author: "কবিতা",
+                img: "/images/কাহিনী-কবিতা-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "কল্পনা",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/কল্পনা.epub",
+                author: "কবিতা",
+                img: "/images/কল্পনা-কবিতা-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "কবিতা",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/কবিতা.epub",
+                author: "কবিতা",
+                img: "/images/কবিতা-কবিতা-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "কথা",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/কথা.epub",
+                author: "কবিতা",
+                img: "/images/কথা-কবিতা-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "কণিকা",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/কণিকা.epub",
+                author: "কবিতা",
+                img: "/images/কণিকা-কবিতা-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "উৎসর্গ",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/উৎসর্গ.epub",
+                author: "কবিতা",
+                img: "/images/উৎসর্গ-কবিতা-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "আবোল তাবোল",
+		dlink: "https://github.com/eboipotro/sukumar_ray/raw/master/কবিতা/আবোল_তাবোল.epub",
+                author: "শিশুসাহিত্যকবিতা",
+                img: "/images/আবোল-তাবোল-কবিতা-সুকুমার-রায়.jpg",
+                type: "সুকুমার রায়",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "আকাশপ্রদীপ",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/আকাশপ্রদীপ.epub",
+                author: "কবিতা",
+                img: "/images/আকাশপ্রদীপ-কবিতা-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "অন্যান্য কবিতা",
+		dlink: "https://github.com/eboipotro/sukumar_ray/raw/master/কবিতা/অন্যান্য_কবিতা.epub",
+                author: "শিশুসাহিত্যকবিতা",
+                img: "/images/অন্যান্য-কবিতা-কবিতা-সুকুমার-রায়.jpg",
+                type: "সুকুমার রায়",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "Gitanjali (SONG OFFERINGS)",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/Gitanjali.epub",
+                author: "কবিতা",
+                img: "/images/Gitanjali-(SONG-OFFERINGS)-কবিতা-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "en",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "Collected Poems and Plays",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/Collected_Poems_and_Plays.epub",
+                author: "কবিতা",
+                img: "/images/Collected-Poems-and-Plays-কবিতা-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-24 00:00:00 +0600",
+                pub: "",
+                lang: "en",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "মেঘনাদবধ কাব্য",
+		dlink: "https://github.com/eboipotro/michael_madhusudan_dutta/raw/master/কবিতা/মেঘনাদবধ_কাব্য.epub",
+                author: "মহাকাব্যকবিতা",
+                img: "/images/মেঘনাদবধ-কাব্য-কবিতা-মাইকেল-মধুসূদন-দত্ত.jpg",
+                type: "মাইকেল মধুসূদন দত্ত",
+                date: "2016-04-20 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "পদ্মা নদীর মাঝি",
+		dlink: "https://github.com/eboipotro/manik_bandyapadhyay/raw/master/উপন্যাস/পদ্মা_নদীর_মাঝি.epub",
+                author: "উপন্যাস",
+                img: "/images/পদ্মা-নদীর-মাঝি-উপন্যাস-মানিক-বন্দ্যোপাধ্যায়.jpg",
+                type: "মানিক বন্দ্যোপাধ্যায়",
+                date: "2016-04-19 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "প্রকৃতির প্রতিশোধ",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/নাটক/প্রকৃতির_প্রতিশোধ.epub",
+                author: "নাটক",
+                img: "/images/প্রকৃতির-প্রতিশোধ-নাটক-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-17 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "নবীন",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/নাটক/নবীন.epub",
+                author: "নাটক",
+                img: "/images/নবীন-নাটক-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-17 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "নলিনী",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/নাটক/নলিনী.epub",
+                author: "নাটক",
+                img: "/images/নলিনী-নাটক-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-07 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "মায়ার খেলা",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/নাটক/মায়ার_খেলা.epub",
+                author: "নৃত্যনাট্যনাটক",
+                img: "/images/মায়ার-খেলা-নাটক-নৃত্যনাট্য-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-06 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "চিত্রাঙ্গদা",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/নাটক/চিত্রাঙ্গদা_নৃত্যনাট্য.epub",
+                author: "নৃত্যনাট্যনাটক",
+                img: "/images/চিত্রাঙ্গদা-নাটক-নৃত্যনাট্য-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-06 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "নটীর পূজা",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/নাটক/নটীর_পূজা.epub",
+                author: "নাটক",
+                img: "/images/নটীর-পূজা-নাটক-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-05 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "নটরাজ",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/নাটক/নটরাজ.epub",
+                author: "নাটক",
+                img: "/images/নটরাজ-নাটক-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-05 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "চণ্ডালিকা",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/নাটক/চণ্ডালিকা_নৃত্যনাট্য.epub",
+                author: "নৃত্যনাট্যনাটক",
+                img: "/images/চণ্ডালিকা-নাটক-নৃত্যনাট্য-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-05 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "তপতী",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/নাটক/তপতী.epub",
+                author: "নাটক",
+                img: "/images/তপতী-নাটক-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-04 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "চিরকুমার সভা",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/নাটক/চিরকুমার_সভা.epub",
+                author: "রম্যরচনানাটক",
+                img: "/images/চিরকুমার-সভা-নাটক-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-04-04 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "তাসের দেশ",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/নাটক/তাসের_দেশ.epub",
+                author: "নাটক",
+                img: "/images/তাসের-দেশ-নাটক-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-03-31 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "ডাকঘর",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/নাটক/ডাকঘর.epub",
+                author: "নাটক",
+                img: "/images/ডাকঘর-নাটক-রবীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-03-31 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "কমলাকান্ত",
+		dlink: "https://github.com/eboipotro/bankim/raw/master/প্রবন্ধ/কমলাকান্ত.epub",
+                author: "ব্যাঙ্গরচনারম্যরচনাপ্রবন্ধ",
+                img: "/images/কমলাকান্ত-প্রবন্ধ-বঙ্কিমচন্দ্র-চট্টোপাধ্যায়.jpg",
+                type: "বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+                date: "2016-03-21 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "কৃষ্ণকান্তের উইল",
+		dlink: "https://github.com/eboipotro/bankim/raw/master/উপন্যাস/কৃষ্ণকান্তের_উইল.epub",
+                author: "উপন্যাস",
+                img: "/images/কৃষ্ণকান্তের-উইল-উপন্যাস-বঙ্কিমচন্দ্র-চট্টোপাধ্যায়.jpg",
+                type: "বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+                date: "2016-03-20 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "গৃহদাহ",
+		dlink: "https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/গৃহদাহ.epub",
+                author: "উপন্যাস",
+                img: "/images/গৃহদাহ-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.jpg",
+                type: "শরৎচন্দ্র চট্টোপাধ্যায়",
+                date: "2016-03-15 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "হিংসুটি",
+		dlink: "https://github.com/eboipotro/sukumar_ray/raw/master/নাটক/হিংসুটি.epub",
+                author: "শিশুসাহিত্যনাটক",
+                img: "/images/হিংসুটি-নাটক-সুকুমার-রায়.jpg",
+                type: "সুকুমার রায়",
+                date: "2016-03-13 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "হ য ব র ল",
+		dlink: "https://github.com/eboipotro/sukumar_ray/raw/master/গল্প/হযবরল.epub",
+                author: "শিশুসাহিত্যছোটগল্প",
+                img: "/images/হ-য-ব-র-ল-ছোটগল্প-সুকুমার-রায়.jpg",
+                type: "সুকুমার রায়",
+                date: "2016-03-13 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "লক্ষ্মণের শক্তিশেল",
+		dlink: "https://github.com/eboipotro/sukumar_ray/raw/master/নাটক/লক্ষ্মণের_শক্তিশেল.epub",
+                author: "শিশুসাহিত্যনাটক",
+                img: "/images/লক্ষ্মণের-শক্তিশেল-নাটক-সুকুমার-রায়.png",
+                type: "সুকুমার রায়",
+                date: "2016-03-13 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "রূপ টুপ কথা টথা",
+		dlink: "https://github.com/eboipotro/boidweep/raw/master/Books/রূপ_টুপ_কথা_টথা.epub",
+                author: "ছোটগল্প",
+                img: "/images/রূপ-টুপ-কথা-টথা-ছোটগল্প-নিঘাত-সুলতানা-তিথি.jpeg",
+                type: "নিঘাত সুলতানা তিথি",
+                date: "2016-03-13 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "মামা গো!",
+		dlink: "https://github.com/eboipotro/sukumar_ray/raw/master/নাটক/মামা_গো.epub",
+                author: "শিশুসাহিত্যনাটক",
+                img: "/images/মামা-গো!-নাটক-সুকুমার-রায়.jpg",
+                type: "সুকুমার রায়",
+                date: "2016-03-13 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "ভাবুক সভা",
+		dlink: "https://github.com/eboipotro/sukumar_ray/raw/master/নাটক/ভাবুক_সভা.epub",
+                author: "শিশুসাহিত্যনাটক",
+                img: "/images/ভাবুক-সভা-নাটক-সুকুমার-রায়.jpg",
+                type: "সুকুমার রায়",
+                date: "2016-03-13 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "বুড়ো আংলা",
+		dlink: "https://github.com/eboipotro/Abanindranath/raw/master/উপন্যাস/বুড়ো_আংলা.epub",
+                author: "শিশুসাহিত্যউপন্যাস",
+                img: "/images/বুড়ো-আংলা-উপন্যাস-অবনীন্দ্রনাথ-ঠাকুর.jpg",
+                type: "অবনীন্দ্রনাথ ঠাকুর",
+                date: "2016-03-13 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "বানোয়াট গল্প",
+		dlink: "https://github.com/eboipotro/boidweep/raw/master/Books/বানোয়াট_গল্প.epub",
+                author: "ছোটগল্প",
+                img: "/images/বানোয়াট-গল্প-ছোটগল্প-আনোয়ার-সাদাত-শিমুল.jpeg",
+                type: "আনোয়ার সাদাত শিমুল",
+                date: "2016-03-13 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "বহুরূপী",
+		dlink: "https://github.com/eboipotro/sukumar_ray/raw/master/গল্প/বহুরূপী.epub",
+                author: "শিশুসাহিত্যছোটগল্প",
+                img: "/images/বহুরূপী-ছোটগল্প-সুকুমার-রায়.jpg",
+                type: "সুকুমার রায়",
+                date: "2016-03-13 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "পাগলা দাশু",
+		dlink: "https://github.com/eboipotro/sukumar_ray/raw/master/গল্প/পাগলা_দাশু.epub",
+                author: "শিশুসাহিত্যছোটগল্প",
+                img: "/images/পাগলা-দাশু-ছোটগল্প-সুকুমার-রায়.jpg",
+                type: "সুকুমার রায়",
+                date: "2016-03-13 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "দেখিতে গিয়াছি পর্বতমালা",
+		dlink: "https://github.com/eboipotro/boidweep/raw/master/Books/দেখিতে_গিয়াছি_পর্বতমালা.epub",
+                author: "ভ্রমণকাহিনীঅন্যান্য",
+                img: "/images/দেখিতে-গিয়াছি-পর্বতমালা-অন্যান্য-মাহবুব-আজাদ.jpg",
+                type: "মাহবুব আজাদ",
+                date: "2016-03-13 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "টুনটুনি আর বাঘের গল্প",
+		dlink: "https://github.com/eboipotro/upendrakishore/raw/master/গল্প/টুনটুনি_আর_বাঘের_গল্প.epub",
+                author: "শিশুসাহিত্যছোটগল্প",
+                img: "/images/টুনটুনি-আর-বাঘের-গল্প-ছোটগল্প-উপেন্দ্রকিশোর-রায়চৌধুরী.png",
+                type: "উপেন্দ্রকিশোর রায়চৌধুরী",
+                date: "2016-03-13 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "ঝালাপালা",
+		dlink: "https://github.com/eboipotro/sukumar_ray/raw/master/নাটক/ঝালাপালা.epub",
+                author: "শিশুসাহিত্যনাটক",
+                img: "/images/ঝালাপালা-নাটক-সুকুমার-রায়.jpg",
+                type: "সুকুমার রায়",
+                date: "2016-03-13 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "ছেলেদের রামায়ণ",
+		dlink: "https://github.com/eboipotro/upendrakishore/raw/master/গল্প/ছেলেদের_রামায়ণ.epub",
+                author: "শিশুসাহিত্যছোটগল্প",
+                img: "/images/ছেলেদের-রামায়ণ-ছোটগল্প-উপেন্দ্রকিশোর-রায়চৌধুরী.png",
+                type: "উপেন্দ্রকিশোর রায়চৌধুরী",
+                date: "2016-03-13 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "গল্পমালা",
+		dlink: "https://github.com/eboipotro/upendrakishore/raw/master/গল্প/গল্পমালা.epub",
+                author: "শিশুসাহিত্যছোটগল্প",
+                img: "/images/গল্পমালা-ছোটগল্প-উপেন্দ্রকিশোর-রায়চৌধুরী.jpg",
+                type: "উপেন্দ্রকিশোর রায়চৌধুরী",
+                date: "2016-03-13 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "কিন্নরকণ্ঠী নদী",
+		dlink: "https://github.com/eboipotro/boidweep/raw/master/Books/কিন্নরকণ্ঠী_নদী.epub",
+                author: "উপন্যাস",
+                img: "/images/কিন্নরকণ্ঠী-নদী-উপন্যাস-ওয়াহিদা-নূর-আফজা.jpg",
+                type: "ওয়াহিদা নূর আফজা",
+                date: "2016-03-13 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "ইলিয়াসের ঘোড়া",
+		dlink: "https://github.com/eboipotro/boidweep/raw/master/Books/ইলিয়াসের_ঘোড়া.epub",
+                author: "প্রবন্ধ",
+                img: "/images/ইলিয়াসের-ঘোড়া-প্রবন্ধ-তারেক-নূরুল-হাসান.jpeg",
+                type: "তারেক নূরুল হাসান",
+                date: "2016-03-13 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "অবাক জলপান",
+		dlink: "https://github.com/eboipotro/sukumar_ray/raw/master/নাটক/অবাক_জলপান.epub",
+                author: "শিশুসাহিত্যনাটক",
+                img: "/images/অবাক-জলপান-নাটক-সুকুমার-রায়.jpg",
+                type: "সুকুমার রায়",
+                date: "2016-03-13 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "অন্যান্য গল্প",
+		dlink: "https://github.com/eboipotro/sukumar_ray/raw/master/গল্প/অন্যান্য_গল্প.epub",
+                author: "শিশুসাহিত্যছোটগল্প",
+                img: "/images/অন্যান্য-গল্প-ছোটগল্প-সুকুমার-রায়.jpg",
+                type: "সুকুমার রায়",
+                date: "2016-03-13 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "ছাদের কার্ণিশে কাক",
+		dlink: "https://github.com/eboipotro/boidweep/raw/master/Books/ছাদের_কার্ণিশে_কাক.epub",
+                author: "উপন্যাস",
+                img: "/images/ছাদের-কার্ণিশে-কাক-উপন্যাস-আনোয়ার-সাদাত-শিমুল.jpeg",
+                type: "আনোয়ার সাদাত শিমুল",
+                date: "2016-03-10 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "কালো ঘোড়ার আরোহী",
+		dlink: "https://github.com/eboipotro/boidweep/raw/master/Books/কালো_ঘোড়ার_আরোহী.epub",
+                author: "উপন্যাস",
+                img: "/images/কালো-ঘোড়ার-আরোহী-উপন্যাস-জুনায়েদ-কবীর.jpeg",
+                type: "জুনায়েদ কবীর",
+                date: "2016-03-10 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "বড়দিদি",
+		dlink: "https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/বড়দিদি.epub",
+                author: "উপন্যাস",
+                img: "/images/বড়দিদি-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.jpg",
+                type: "শরৎচন্দ্র চট্টোপাধ্যায়",
+                date: "2016-03-06 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "দেবদাস",
+		dlink: "https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/দেবদাস.epub",
+                author: "উপন্যাস",
+                img: "/images/দেবদাস-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.jpg",
+                type: "শরৎচন্দ্র চট্টোপাধ্যায়",
+                date: "2016-03-06 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "বৈকুন্ঠের উইল",
+		dlink: "https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/বৈকুন্ঠের_উইল.epub",
+                author: "উপন্যাস",
+                img: "/images/বৈকুন্ঠের-উইল-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.jpg",
+                type: "শরৎচন্দ্র চট্টোপাধ্যায়",
+                date: "2016-03-02 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "বিরাজবৌ",
+		dlink: "https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/বিরাজবৌ.epub",
+                author: "উপন্যাস",
+                img: "/images/বিরাজবৌ-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.jpg",
+                type: "শরৎচন্দ্র চট্টোপাধ্যায়",
+                date: "2016-03-02 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "অব্যক্ত",
+		dlink: "https://github.com/eboipotro/jagadish/raw/master/প্রবন্ধ/অব্যক্ত.epub",
+                author: "প্রবন্ধ",
+                img: "/images/অব্যক্ত-প্রবন্ধ-জগদীশ-চন্দ্র-বসু.jpg",
+                type: "জগদীশ চন্দ্র বসু",
+                date: "2016-02-04 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "পল্লীসমাজ",
+		dlink: "https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/পল্লী-সমাজ.epub",
+                author: "উপন্যাস",
+                img: "/images/পল্লীসমাজ-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.jpg",
+                type: "শরৎচন্দ্র চট্টোপাধ্যায়",
+                date: "2016-02-02 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "সাদাসিধে কথা",
+		dlink: "https://github.com/eboipotro/zafar_iqbal/raw/master/প্রবন্ধ/সাদাসিধে_কথা.epub",
+                author: "প্রবন্ধ",
+                img: "/images/সাদাসিধে-কথা-প্রবন্ধ-মুহম্মদ-জাফর-ইকবাল.jpg",
+                type: "মুহম্মদ জাফর ইকবাল",
+                date: "2016-01-31 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "পরিণীতা",
+		dlink: "https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/পরিণীতা.epub",
+                author: "উপন্যাস",
+                img: "/images/পরিণীতা-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.jpg",
+                type: "শরৎচন্দ্র চট্টোপাধ্যায়",
+                date: "2016-01-31 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "শেষ প্রশ্ন",
+		dlink: "https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/শেষ_প্রশ্ন.epub",
+                author: "উপন্যাস",
+                img: "/images/শেষ-প্রশ্ন-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.jpg",
+                type: "শরৎচন্দ্র চট্টোপাধ্যায়",
+                date: "2016-01-28 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "বামুনের মেয়ে",
+		dlink: "https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/বামুনের_মেয়ে.epub",
+                author: "উপন্যাস",
+                img: "/images/বামুনের-মেয়ে-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.jpg",
+                type: "শরৎচন্দ্র চট্টোপাধ্যায়",
+                date: "2016-01-28 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "পণ্ডিতমশাই",
+		dlink: "https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/পণ্ডিতমশাই.epub",
+                author: "উপন্যাস",
+                img: "/images/পণ্ডিতমশাই-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.jpg",
+                type: "শরৎচন্দ্র চট্টোপাধ্যায়",
+                date: "2016-01-28 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "শ্রীকান্ত - ৪র্থ পর্ব",
+		dlink: "https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/শ্রীকান্ত-৪র্থ_পর্ব.epub",
+                author: "উপন্যাস",
+                img: "/images/শ্রীকান্ত-৪র্থ-পর্ব-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.png",
+                type: "শরৎচন্দ্র চট্টোপাধ্যায়",
+                date: "2016-01-26 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "শ্রীকান্ত - ৩য় পর্ব",
+		dlink: "https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/শ্রীকান্ত-৩য়_পর্ব.epub",
+                author: "উপন্যাস",
+                img: "/images/শ্রীকান্ত-৩য়-পর্ব-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.png",
+                type: "শরৎচন্দ্র চট্টোপাধ্যায়",
+                date: "2016-01-26 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "শ্রীকান্ত - ২য় পর্ব",
+		dlink: "https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/শ্রীকান্ত-২য়_পর্ব.epub",
+                author: "উপন্যাস",
+                img: "/images/শ্রীকান্ত-২য়-পর্ব-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.png",
+                type: "শরৎচন্দ্র চট্টোপাধ্যায়",
+                date: "2016-01-26 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "শ্রীকান্ত - ১ম পর্ব",
+		dlink: "https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/শ্রীকান্ত-১ম_পর্ব.epub",
+                author: "উপন্যাস",
+                img: "/images/শ্রীকান্ত-১ম-পর্ব-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.png",
+                type: "শরৎচন্দ্র চট্টোপাধ্যায়",
+                date: "2016-01-26 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "বিপ্রদাস",
+		dlink: "https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/বিপ্রদাস.epub",
+                author: "উপন্যাস",
+                img: "/images/বিপ্রদাস-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.png",
+                type: "শরৎচন্দ্র চট্টোপাধ্যায়",
+                date: "2016-01-26 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "পথের দাবী",
+		dlink: "https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/পথের_দাবী.epub",
+                author: "উপন্যাস",
+                img: "/images/পথের-দাবী-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.png",
+                type: "শরৎচন্দ্র চট্টোপাধ্যায়",
+                date: "2016-01-26 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "দেনা-পাওনা",
+		dlink: "https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/দেনা-পাওনা.epub",
+                author: "উপন্যাস",
+                img: "/images/দেনা-পাওনা-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.jpg",
+                type: "শরৎচন্দ্র চট্টোপাধ্যায়",
+                date: "2016-01-26 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "দত্তা",
+		dlink: "https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/দত্তা.epub",
+                author: "উপন্যাস",
+                img: "/images/দত্তা-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.png",
+                type: "শরৎচন্দ্র চট্টোপাধ্যায়",
+                date: "2016-01-26 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "চরিত্রহীন",
+		dlink: "https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/চরিত্রহীন.epub",
+                author: "উপন্যাস",
+                img: "/images/চরিত্রহীন-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.png",
+                type: "শরৎচন্দ্র চট্টোপাধ্যায়",
+                date: "2016-01-26 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "জীবজন্তু",
+		dlink: "https://github.com/eboipotro/sukumar_ray/raw/master/প্রবন্ধ/জীবজন্তু.epub",
+                author: "প্রবন্ধ",
+                img: "/images/জীবজন্তু-প্রবন্ধ-সুকুমার-রায়.png",
+                type: "সুকুমার রায়",
+                date: "2016-01-14 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "ব্যঙ্গকৌতুক",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/ব্যঙ্গকৌতুক.epub",
+                author: "প্রবন্ধ",
+                img: "/images/ব্যঙ্গকৌতুক-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2016-01-10 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "ব্যথার দান",
+		dlink: "https://github.com/eboipotro/nazrul_islam/raw/master/গল্প/ব্যথার_দান.epub",
+                author: "ছোটগল্প",
+                img: "/images/ব্যথার-দান-ছোটগল্প-কাজী-নজরুল-ইসলাম.png",
+                type: "কাজী নজরুল ইসলাম",
+                date: "2015-11-30 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "চাঁদের পাহাড়",
+		dlink: "https://github.com/eboipotro/bibhutibhushan/raw/master/উপন্যাস/চাঁদের_পাহাড়.epub",
+                author: "উপন্যাস",
+                img: "/images/চাঁদের-পাহাড়-উপন্যাস-বিভূতিভূষণ-বন্দ্যোপাধ্যায়.png",
+                type: "বিভূতিভূষণ বন্দ্যোপাধ্যায়",
+                date: "2015-10-11 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "আরণ্যক",
+		dlink: "https://github.com/eboipotro/bibhutibhushan/raw/master/উপন্যাস/আরণ্যক.epub",
+                author: "উপন্যাস",
+                img: "/images/আরণ্যক-উপন্যাস-বিভূতিভূষণ-বন্দ্যোপাধ্যায়.png",
+                type: "বিভূতিভূষণ বন্দ্যোপাধ্যায়",
+                date: "2015-10-11 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "জীবনী",
+		dlink: "https://github.com/eboipotro/sukumar_ray/raw/master/প্রবন্ধ/জীবনী.epub",
+                author: "প্রবন্ধ",
+                img: "/images/জীবনী-প্রবন্ধ-সুকুমার-রায়.png",
+                type: "সুকুমার রায়",
+                date: "2015-09-22 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "গুরু",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/নাটক/গুরু.epub",
+                author: "নাটক",
+                img: "/images/গুরু-নাটক-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-22 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "চিত্রাঙ্গদা",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/নাটক/চিত্রাঙ্গদা.epub",
+                author: "নাটক",
+                img: "/images/চিত্রাঙ্গদা-নাটক-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-21 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "চণ্ডালিকা",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/নাটক/চণ্ডালিকা.epub",
+                author: "নাটক",
+                img: "/images/চণ্ডালিকা-নাটক-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-21 00:00:00 +0600",
+                pub: "",
+                lang: "pal",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "গোড়ায় গলদ",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/নাটক/গোড়ায়_গলদ.epub",
+                author: "নাটক",
+                img: "/images/গোড়ায়-গলদ-নাটক-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-21 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "গৃহপ্রবেশ",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/নাটক/গৃহপ্রবেশ.epub",
+                author: "নাটক",
+                img: "/images/গৃহপ্রবেশ-নাটক-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-21 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "কাহিনী",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/নাটক/কাহিনী.epub",
+                author: "নাটক",
+                img: "/images/কাহিনী-নাটক-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-21 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "বিবিধ",
+		dlink: "https://github.com/eboipotro/sukumar_ray/raw/master/প্রবন্ধ/বিবিধ.epub",
+                author: "প্রবন্ধ",
+                img: "/images/বিবিধ-প্রবন্ধ-সুকুমার-রায়.png",
+                type: "সুকুমার রায়",
+                date: "2015-09-20 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "কালের যাত্রা",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/নাটক/কালের_যাত্রা.epub",
+                author: "নাটক",
+                img: "/images/কালের-যাত্রা-নাটক-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-20 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "কালমৃগয়া",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/নাটক/কালমৃগয়া.epub",
+                author: "নাটক",
+                img: "/images/কালমৃগয়া-নাটক-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-20 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "রাশিয়ার চিঠি",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/রাশিয়ার_চিঠি.epub",
+                author: "প্রবন্ধ",
+                img: "/images/রাশিয়ার-চিঠি-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-16 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "প্রাচীনসাহিত্য",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/প্রাচীনসাহিত্য.epub",
+                author: "প্রবন্ধ",
+                img: "/images/প্রাচীনসাহিত্য-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-16 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "ঋণশোধ",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/নাটক/ঋণশোধ.epub",
+                author: "নাটক",
+                img: "/images/ঋণশোধ-নাটক-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-16 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "Autumn-Festival",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/নাটক/Autumn-Festival.epub",
+                author: "নাটক",
+                img: "/images/Autumn-Festival-নাটক-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-16 00:00:00 +0600",
+                pub: "",
+                lang: "en",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "য়ুরোপ-যাত্রীর ডায়ারি",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/য়ুরোপ-যাত্রীর_ডায়ারি.epub",
+                author: "প্রবন্ধ",
+                img: "/images/য়ুরোপ-যাত্রীর-ডায়ারি-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-15 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "য়ুরোপ-প্রবাসীর পত্র",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/য়ুরোপ-প্রবাসীর_পত্র.epub",
+                author: "প্রবন্ধ",
+                img: "/images/য়ুরোপ-প্রবাসীর-পত্র-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-15 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "বউ-ঠাকুরানীর হাট",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/উপন্যাস/বউ-ঠাকুরানীর_হাট.epub",
+                author: "উপন্যাস",
+                img: "/images/বউ-ঠাকুরানীর-হাট-উপন্যাস-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-15 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "অরূপরতন",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/নাটক/অরূপরতন.epub",
+                author: "নাটক",
+                img: "/images/অরূপরতন-নাটক-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-15 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "স্বদেশ",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/স্বদেশ.epub",
+                author: "প্রবন্ধ",
+                img: "/images/স্বদেশ-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-09 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "সাহিত্যের স্বরূপ",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/সাহিত্যের_স্বরূপ.epub",
+                author: "প্রবন্ধ",
+                img: "/images/সাহিত্যের-স্বরূপ-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-09 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "সাহিত্যের পথে",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/সাহিত্যের_পথে.epub",
+                author: "প্রবন্ধ",
+                img: "/images/সাহিত্যের-পথে-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-09 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "সাহিত্য",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/সাহিত্য.epub",
+                author: "প্রবন্ধ",
+                img: "/images/সাহিত্য-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-09 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "সাময়িক সাহিত্য সমালোচনা",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/সাময়িক_সাহিত্য_সমালোচনা.epub",
+                author: "প্রবন্ধ",
+                img: "/images/সাময়িক-সাহিত্য-সমালোচনা-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-09 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "সাময়িক সারসংগ্রহ",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/সাময়িক_সারসংগ্রহ.epub",
+                author: "প্রবন্ধ",
+                img: "/images/সাময়িক-সারসংগ্রহ-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-09 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "সমূহ",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/সমূহ.epub",
+                author: "প্রবন্ধ",
+                img: "/images/সমূহ-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-09 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "সমাজ",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/সমাজ.epub",
+                author: "প্রবন্ধ",
+                img: "/images/সমাজ-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-09 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "সমবায়নীতি",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/সমবায়নীতি.epub",
+                author: "প্রবন্ধ",
+                img: "/images/সমবায়নীতি-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-09 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "সঞ্চয়",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/সঞ্চয়.epub",
+                author: "প্রবন্ধ",
+                img: "/images/সঞ্চয়-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-09 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "Sanyasi or the Ascetic",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/নাটক/Sanyasi_or_the_Ascetic.epub",
+                author: "নাটক",
+                img: "/images/Sanyasi-or-the-Ascetic-নাটক-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-09 00:00:00 +0600",
+                pub: "",
+                lang: "en",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "Sacrifice",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/নাটক/Sacrifice.epub",
+                author: "নাটক",
+                img: "/images/Sacrifice-নাটক-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-09 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "Red Oleanders",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/নাটক/Red_Oleanders.epub",
+                author: "নাটক",
+                img: "/images/Red-Oleanders-নাটক-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-09 00:00:00 +0600",
+                pub: "",
+                lang: "en",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "Malini",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/নাটক/Malini.epub",
+                author: "নাটক",
+                img: "/images/Malini-নাটক-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-09 00:00:00 +0600",
+                pub: "",
+                lang: "en",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "CHITRA",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/নাটক/CHITRA.epub",
+                author: "নাটক",
+                img: "/images/CHITRA-নাটক-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-09 00:00:00 +0600",
+                pub: "",
+                lang: "en",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "সংগীতচিন্তা",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/সংগীতচিন্তা.epub",
+                author: "প্রবন্ধ",
+                img: "/images/সংগীতচিন্তা-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-08 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "সংগীত",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/সংগীত.epub",
+                author: "প্রবন্ধ",
+                img: "/images/সংগীত-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-08 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "শিল্প",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/শিল্প.epub",
+                author: "প্রবন্ধ",
+                img: "/images/শিল্প-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-08 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "শান্তিনিকেতন ব্রহ্মচর্যাশ্রম",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/শান্তিনিকেতন_ব্রহ্মচর্যাশ্রম.epub",
+                author: "প্রবন্ধ",
+                img: "/images/শান্তিনিকেতন-ব্রহ্মচর্যাশ্রম-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-08 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "শান্তিনিকেতন",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/শান্তিনিকেতন.epub",
+                author: "প্রবন্ধ",
+                img: "/images/শান্তিনিকেতন-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-08 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "লোকসাহিত্য",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/লোকসাহিত্য.epub",
+                author: "প্রবন্ধ",
+                img: "/images/লোকসাহিত্য-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-07 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "রাজা প্রজা",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/রাজা_প্রজা.epub",
+                author: "প্রবন্ধ",
+                img: "/images/রাজা-প্রজা-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-07 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "মহাত্মা গান্ধী",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/মহাত্মা_গান্ধী.epub",
+                author: "প্রবন্ধ",
+                img: "/images/মহাত্মা-গান্ধী-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-07 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "ভারতবর্ষ",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/ভারতবর্ষ.epub",
+                author: "প্রবন্ধ",
+                img: "/images/ভারতবর্ষ-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-07 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "ব্যক্তিপ্রসঙ্গ",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/ব্যক্তিপ্রসঙ্গ.epub",
+                author: "প্রবন্ধ",
+                img: "/images/ব্যক্তিপ্রসঙ্গ-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-07 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "বিশ্বভারতী",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/বিশ্বভারতী.epub",
+                author: "প্রবন্ধ",
+                img: "/images/বিশ্বভারতী-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-07 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "বিশ্বপরিচয়",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/বিশ্বপরিচয়.epub",
+                author: "প্রবন্ধ",
+                img: "/images/বিশ্বপরিচয়-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-07 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "বিবিধ",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/বিবিধ.epub",
+                author: "প্রবন্ধ",
+                img: "/images/বিবিধ-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-07 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "বিজ্ঞান",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/বিজ্ঞান.epub",
+                author: "প্রবন্ধ",
+                img: "/images/বিজ্ঞান-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-07 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "বিচিত্র প্রবন্ধ",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/বিচিত্র_প্রবন্ধ.epub",
+                author: "প্রবন্ধ",
+                img: "/images/বিচিত্র-প্রবন্ধ-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-07 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "প্রজাপতির নির্বন্ধ",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/উপন্যাস/প্রজাপতির_নির্বন্ধ.epub",
+                author: "উপন্যাস",
+                img: "/images/প্রজাপতির-নির্বন্ধ-উপন্যাস-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-07 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "পারস্যে",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/পারস্যে.epub",
+                author: "প্রবন্ধ",
+                img: "/images/পারস্যে-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-07 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "পশ্চিম-যাত্রীর ডায়ারি",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/পশ্চিম-যাত্রীর ডায়ারি.epub",
+                author: "প্রবন্ধ",
+                img: "/images/পশ্চিম-যাত্রীর-ডায়ারি-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-07 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "পল্লীপ্রকৃতি",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/পল্লীপ্রকৃতি.epub",
+                author: "প্রবন্ধ",
+                img: "/images/পল্লীপ্রকৃতি-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-07 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "পরিচয়",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/পরিচয়.epub",
+                author: "প্রবন্ধ",
+                img: "/images/পরিচয়-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-07 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "পথের সঞ্চয়",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/পথের_সঞ্চয়.epub",
+                author: "প্রবন্ধ",
+                img: "/images/পথের-সঞ্চয়-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-07 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "নৌকা ডুবি",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/উপন্যাস/নৌকা_ডুবি.epub",
+                author: "উপন্যাস",
+                img: "/images/নৌকা-ডুবি-উপন্যাস-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-07 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "দুই বোন",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/উপন্যাস/দুই_বোন.epub",
+                author: "উপন্যাস",
+                img: "/images/দুই-বোন-উপন্যাস-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-07 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "চোখের বালি",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/উপন্যাস/চোখের_বালি.epub",
+                author: "উপন্যাস",
+                img: "/images/চোখের-বালি-উপন্যাস-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-07 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "চার অধ্যায়",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/উপন্যাস/চার_অধ্যায়.epub",
+                author: "উপন্যাস",
+                img: "/images/চার-অধ্যায়-উপন্যাস-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-07 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "চতুরঙ্গ",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/উপন্যাস/চতুরঙ্গ.epub",
+                author: "উপন্যাস",
+                img: "/images/চতুরঙ্গ-উপন্যাস-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-07 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "ঘরে বাইরে",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/উপন্যাস/ঘরে_বাইরে.epub",
+                author: "উপন্যাস",
+                img: "/images/ঘরে-বাইরে-উপন্যাস-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-07 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "গোরা",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/উপন্যাস/গোরা.epub",
+                author: "উপন্যাস",
+                img: "/images/গোরা-উপন্যাস-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-07 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "The Centre of Indian Culture",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/The_Centre_of_Indian_Culture.epub",
+                author: "প্রবন্ধ",
+                img: "/images/The-Centre-of-Indian-Culture-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-07 00:00:00 +0600",
+                pub: "",
+                lang: "en",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "Sadhana",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/Sadhana.epub",
+                author: "প্রবন্ধ",
+                img: "/images/Sadhana-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-07 00:00:00 +0600",
+                pub: "",
+                lang: "en",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "Nationalism",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/Nationalism.epub",
+                author: "প্রবন্ধ",
+                img: "/images/Nationalism-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-07 00:00:00 +0600",
+                pub: "",
+                lang: "en",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "Creative Unity",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/Creative_Unity.epub",
+                author: "প্রবন্ধ",
+                img: "/images/Creative-Unity-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-07 00:00:00 +0600",
+                pub: "",
+                lang: "en",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "পঞ্চভূত",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/পঞ্চভূত.epub",
+                author: "প্রবন্ধ",
+                img: "/images/পঞ্চভূত-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-06 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "ধর্ম",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/ধর্ম.epub",
+                author: "প্রবন্ধ",
+                img: "/images/ধর্ম-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-06 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "ধর্ম/দর্শন",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/ধর্ম-দর্শন.epub",
+                author: "প্রবন্ধ",
+                img: "/images/ধর্ম-দর্শন-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-06 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "জীবন স্মৃতি",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/জীবন_স্মৃতি.epub",
+                author: "প্রবন্ধ",
+                img: "/images/জীবন-স্মৃতি-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-06 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "জাভাযাত্রীর পত্র",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/জাভাযাত্রীর_পত্র.epub",
+                author: "প্রবন্ধ",
+                img: "/images/জাভাযাত্রীর-পত্র-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-06 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "জাপান যাত্রী",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/জাপান_যাত্রী.epub",
+                author: "প্রবন্ধ",
+                img: "/images/জাপান-যাত্রী-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-06 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "চিঠিপত্র",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/চিঠিপত্র.epub",
+                author: "প্রবন্ধ",
+                img: "/images/চিঠিপত্র-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-06 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "চারিত্রপূজা",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/চারিত্রপূজা.epub",
+                author: "প্রবন্ধ",
+                img: "/images/চারিত্রপূজা-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-06 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "গ্রন্থসমালোচনা",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/গ্রন্থসমালোচনা.epub",
+                author: "প্রবন্ধ",
+                img: "/images/গ্রন্থসমালোচনা-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-06 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "খৃষ্ট",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/খৃষ্ট.epub",
+                author: "প্রবন্ধ",
+                img: "/images/খৃষ্ট-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-06 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "কর্তার ইচ্ছায় কর্ম",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/কর্তার_ইচ্ছায়_কর্ম.epub",
+                author: "প্রবন্ধ",
+                img: "/images/কর্তার-ইচ্ছায়-কর্ম-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-06 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "সভ্যতার সংকট",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/সভ্যতার_সংকট.epub",
+                author: "প্রবন্ধ",
+                img: "/images/সভ্যতার-সংকট-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-03 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "শেষের কবিতা",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/উপন্যাস/শেষের_কবিতা.epub",
+                author: "উপন্যাস",
+                img: "/images/শেষের-কবিতা-উপন্যাস-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-03 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "শব্দতত্ত্ব",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/শব্দতত্ত্ব.epub",
+                author: "প্রবন্ধ",
+                img: "/images/শব্দতত্ত্ব-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-03 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "লিপিকা",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/গল্প/লিপিকা.epub",
+                author: "ছোটগল্প",
+                img: "/images/লিপিকা-ছোটগল্প-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-03 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "রাজর্ষি",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/উপন্যাস/রাজর্ষি.epub",
+                author: "উপন্যাস",
+                img: "/images/রাজর্ষি-উপন্যাস-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-03 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "রক্তকরবী",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/নাটক/রক্তকরবী.epub",
+                author: "নাটক",
+                img: "/images/রক্তকরবী-নাটক-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-03 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "যোগাযোগ",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/উপন্যাস/যোগাযোগ.epub",
+                author: "উপন্যাস",
+                img: "/images/যোগাযোগ-উপন্যাস-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-03 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "মালঞ্চ",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/উপন্যাস/মালঞ্চ.epub",
+                author: "উপন্যাস",
+                img: "/images/মালঞ্চ-উপন্যাস-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-03 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "বাংলাভাষা পরিচয়",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/বাংলাভাষা_পরিচয়.epub",
+                author: "প্রবন্ধ",
+                img: "/images/বাংলাভাষা-পরিচয়-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-03 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "তিনসঙ্গী",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/গল্প/তিনসঙ্গী.epub",
+                author: "ছোটগল্প",
+                img: "/images/তিনসঙ্গী-ছোটগল্প-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-03 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "ছন্দ",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/ছন্দ.epub",
+                author: "প্রবন্ধ",
+                img: "/images/ছন্দ-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-03 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "গল্পসল্প",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/গল্প/গল্পসল্প.epub",
+                author: "ছোটগল্প",
+                img: "/images/গল্পসল্প-ছোটগল্প-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-03 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "গল্পগুচ্ছ",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/গল্প/গল্পগুচ্ছ.epub",
+                author: "ছোটগল্প",
+                img: "/images/গল্পগুচ্ছ-ছোটগল্প-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-03 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "কালান্তর",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/কালান্তর.epub",
+                author: "প্রবন্ধ",
+                img: "/images/কালান্তর-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-03 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "ইতিহাস",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/ইতিহাস.epub",
+                author: "প্রবন্ধ",
+                img: "/images/ইতিহাস-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-03 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "আশ্রমের রূপ ও বিকাশ",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/আশ্রমের_রূপ_ও_বিকাশ.epub",
+                author: "প্রবন্ধ",
+                img: "/images/আশ্রমের-রূপ-ও-বিকাশ-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-03 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "আধুনিক সাহিত্য",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/আধুনিক_সাহিত্য.epub",
+                author: "প্রবন্ধ",
+                img: "/images/আধুনিক-সাহিত্য-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-03 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "আত্মশক্তি",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/আত্মশক্তি.epub",
+                author: "প্রবন্ধ",
+                img: "/images/আত্মশক্তি-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-03 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "আত্মপরিচয়",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/আত্মপরিচয়.epub",
+                author: "প্রবন্ধ",
+                img: "/images/আত্মপরিচয়-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-03 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "অন্যান্য (গল্প)",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/গল্প/অন্যান্য.epub",
+                author: "ছোটগল্প",
+                img: "/images/অন্যান্য-(গল্প)-ছোটগল্প-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-03 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "অচলায়তন",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/নাটক/অচলায়তন.epub",
+                author: "নাটক",
+                img: "/images/অচলায়তন-নাটক-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-03 00:00:00 +0600",
+                pub: "",
+                lang: "bn",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+	JEKYLL_POSTS.push({
+		title: "English Stories",
+		dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/গল্প/English_Stories.epub",
+                author: "ছোটগল্প",
+                img: "/images/English-Stories-ছোটগল্প-রবীন্দ্রনাথ-ঠাকুর.png",
+                type: "রবীন্দ্রনাথ ঠাকুর",
+                date: "2015-09-03 00:00:00 +0600",
+                pub: "",
+                lang: "en",
+                updatedate: "2017-01-02T13:31:52+06:00"
+	}); 
+    
+</script>
+
+<script src="/js/search.js"></script>
+<script>
+	new jekyllSearch({
+		selector: "#results",
+		properties: ["title", "author", "type"]
+	});
+</script>
+</body>

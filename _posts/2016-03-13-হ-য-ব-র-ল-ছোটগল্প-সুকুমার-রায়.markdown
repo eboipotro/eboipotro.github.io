@@ -1,0 +1,22 @@
+---
+layout: post
+published: true
+title: "হ য ব র ল"
+tags: ["সুকুমার রায়"]
+categories: ["শিশুসাহিত্য", "ছোটগল্প"]
+img: "/images/হ-য-ব-র-ল-ছোটগল্প-সুকুমার-রায়.jpg"
+type: "ছোটগল্প"
+subject: ["শিশুসাহিত্য"]
+dlink: "https://github.com/eboipotro/sukumar_ray/raw/master/গল্প/হযবরল.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই-বইপত্র"
+   link: ""
+moddate: "2016-03-13"
+pubdate: "2015-09-15"
+comments: true
+authors: 
+ - author: "সুকুমার রায়"
+   link: "https://eboipotro.github.io/author/সুকুমার-রায়/"
+permalink: "/library/হ-য-ব-র-ল-ছোটগল্প-সুকুমার-রায়/"
+---

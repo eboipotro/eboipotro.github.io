@@ -1,0 +1,21 @@
+---
+layout: post
+published: true
+title: "আকাশপ্রদীপ"
+tags: ["রবীন্দ্রনাথ ঠাকুর"]
+categories: ["কবিতা"]
+img: "/images/আকাশপ্রদীপ-কবিতা-রবীন্দ্রনাথ-ঠাকুর.png"
+type: "কবিতা"
+dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/কবিতা/আকাশপ্রদীপ.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই-বইপত্র"
+   link: ""
+moddate: "2016-04-24"
+pubdate: "2015-12-22"
+comments: true
+authors: 
+ - author: "রবীন্দ্রনাথ ঠাকুর"
+   link: "https://eboipotro.github.io/author/রবীন্দ্রনাথ-ঠাকুর/"
+permalink: "/library/আকাশপ্রদীপ-কবিতা-রবীন্দ্রনাথ-ঠাকুর/"
+---

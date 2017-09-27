@@ -1,0 +1,21 @@
+---
+layout: post
+published: true
+title: "বানোয়াট গল্প"
+tags: ["আনোয়ার সাদাত শিমুল"]
+categories: ["ছোটগল্প"]
+img: "/images/বানোয়াট-গল্প-ছোটগল্প-আনোয়ার-সাদাত-শিমুল.jpeg"
+type: "ছোটগল্প"
+dlink: "https://github.com/eboipotro/boidweep/raw/master/Books/বানোয়াট_গল্প.epub"
+lang: "bn"
+publishers: 
+ - publisher: "বইদ্বীপ"
+   link: "http://www.boidweep.com/"
+moddate: "2016-03-13"
+pubdate: "2012-01-01"
+comments: true
+authors: 
+ - author: "আনোয়ার সাদাত শিমুল"
+   link: "https://eboipotro.github.io/author/আনোয়ার-সাদাত-শিমুল/"
+permalink: "/library/বানোয়াট-গল্প-ছোটগল্প-আনোয়ার-সাদাত-শিমুল/"
+---

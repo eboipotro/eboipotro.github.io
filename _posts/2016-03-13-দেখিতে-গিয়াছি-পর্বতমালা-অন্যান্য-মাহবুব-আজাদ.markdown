@@ -1,0 +1,23 @@
+---
+layout: post
+published: true
+title: "দেখিতে গিয়াছি পর্বতমালা"
+tags: ["মাহবুব আজাদ"]
+categories: ["ভ্রমণকাহিনী", "অন্যান্য"]
+img: "/images/দেখিতে-গিয়াছি-পর্বতমালা-অন্যান্য-মাহবুব-আজাদ.jpg"
+type: "অন্যান্য"
+subject: ["ভ্রমণকাহিনী"]
+dlink: "https://github.com/eboipotro/boidweep/raw/master/Books/দেখিতে_গিয়াছি_পর্বতমালা.epub"
+lang: "bn"
+publishers: 
+ - publisher: "বইদ্বীপ"
+   link: "http://boidweep.com"
+moddate: "2016-03-13"
+pubdate: "2016-03-13"
+comments: true
+authors: 
+ - author: "মাহবুব আজাদ"
+   link: "https://eboipotro.github.io/author/মাহবুব-আজাদ/"
+description: "২০০৪ সালের ফেব্রুয়ারি মাসে বান্দরবান থেকে দক্ষিণ রাঙামাটিতে রাইনক্ষ্যং নদীর উৎসমুখে ট্রেকিঙে গিয়েছিলেন কয়েকজন অভিযাত্রী। সে যাত্রার বিবরণের সঙ্গে বাগাড়ম্বরের যোগফল এই গ্রন্থটি।"
+permalink: "/library/দেখিতে-গিয়াছি-পর্বতমালা-অন্যান্য-মাহবুব-আজাদ/"
+---

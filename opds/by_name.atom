@@ -1,0 +1,53 @@
+---
+layout: null
+---
+<feed xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/" xmlns="http://www.w3.org/2005/Atom">
+  <title>সকল বই - নাম অনুসারে</title>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <icon>http://eboipotro.github.io/opds/icon/by_name.png</icon>
+  <link rel="self" type="application/atom+xml" href="http://eboipotro.github.io/catalog/"/>
+  <author>
+    <name>ই-বইপত্র</name>
+    <uri>http://eboipotro.github.io</uri>
+  </author>
+  <link rel="search" type="application/opensearchdescription+xml" href="http://eboipotro.github.io/opds/opensearch.atom"/>
+
+{% assign sorted_books = (site.posts | sort: 'title') %}
+{% for post in sorted_books %}
+ <entry>
+    <title>{{ post.title }}</title>
+    <updated>{{ site.time | date_to_xmlschema }}</updated>
+    <link href="{{ post.dlink }}" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="{{ post.img }}" type="image/png" rel="http://opds-spec.org/image"/>
+    <link href="{{ post.img }}" type="image/png" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>{{ post.date }}</dcterms:issued>
+    <author>
+      <name>{{ post.tags }}</name>
+    </author>
+    <dcterms:publisher>{{ post.pub }}</dcterms:publisher>
+    <dcterms:language>{{ post.lang }}</dcterms:language>
+    <content type="text/html">
+      <p align="center">{% if post.translator %}<b>অনুবাদক:</b> {{ post.translator }}<br/>{% endif %}
+        <b>ধরণ:</b> {{ post.categories }}<br/>
+        <b>প্রথম সংস্করণ:</b> {% include bangla-post-date.html %}<br/>
+        <b>সর্বশেষ সংস্করণ:</b> {% include bangla-post-mod-date.html %}<br/>
+        {% if post.lang == 'en' %}
+        <b>ভাষা:</b> ইংলিশ<br/>
+        {% elsif post.lang == 'bn' %}
+        <b>ভাষা:</b> বাঙলা<br/>
+        {% endif %}
+        <b>প্রকাশক:</b> {% if post.publishers %}
+    {% for pub in post.publishers %}
+    {% if pub.publisher == 'ই-বইপত্র' or pub.publisher == 'ই - বইপত্র' %}
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+    {% elsif pub.link == "" %}
+    <b>{{ pub.publisher }}</b>
+    {% else %}
+    <a href="{{ pub.link }}" target="_blank"><b>{{ pub.publisher }}</b></a>
+    {% endif %}
+    {% endfor %}
+    {% endif %}</p>
+    </content>
+  </entry>
+  {% endfor %}
+</feed>

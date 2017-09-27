@@ -1,0 +1,22 @@
+---
+layout: post
+published: true
+title: "খাই খাই"
+tags: ["সুকুমার রায়"]
+categories: ["শিশুসাহিত্য", "কবিতা"]
+img: "/images/খাই-খাই-কবিতা-সুকুমার-রায়.jpg"
+type: "কবিতা"
+subject: ["শিশুসাহিত্য"]
+dlink: "https://github.com/eboipotro/sukumar_ray/raw/master/কবিতা/খাই_খাই.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই-বইপত্র"
+   link: ""
+moddate: "2016-04-25"
+pubdate: "2016-01-07"
+comments: true
+authors: 
+ - author: "সুকুমার রায়"
+   link: "https://eboipotro.github.io/author/সুকুমার-রায়/"
+permalink: "/library/খাই-খাই-কবিতা-সুকুমার-রায়/"
+---

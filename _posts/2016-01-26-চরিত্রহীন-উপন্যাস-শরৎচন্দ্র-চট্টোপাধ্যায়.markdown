@@ -1,0 +1,21 @@
+---
+layout: post
+published: true
+title: "চরিত্রহীন"
+tags: ["শরৎচন্দ্র চট্টোপাধ্যায়"]
+categories: ["উপন্যাস"]
+img: "/images/চরিত্রহীন-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়.png"
+type: "উপন্যাস"
+dlink: "https://github.com/eboipotro/sharatchandra/raw/master/উপন্যাস/চরিত্রহীন.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই-বইপত্র"
+   link: ""
+moddate: "2016-01-26"
+pubdate: "2016-01-06"
+comments: true
+authors: 
+ - author: "শরৎচন্দ্র চট্টোপাধ্যায়"
+   link: "https://eboipotro.github.io/author/শরৎচন্দ্র-চট্টোপাধ্যায়/"
+permalink: "/library/চরিত্রহীন-উপন্যাস-শরৎচন্দ্র-চট্টোপাধ্যায়/"
+---

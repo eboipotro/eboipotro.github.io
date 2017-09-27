@@ -1,0 +1,21 @@
+---
+layout: post
+published: true
+title: "ছাড়পত্র"
+tags: ["সুকান্ত ভট্টাচার্য"]
+categories: ["কবিতা"]
+img: "/images/ছাড়পত্র-কবিতা-সুকান্ত-ভট্টাচার্য.jpg"
+type: "কবিতা"
+dlink: "https://github.com/eboipotro/sukanto/raw/master/কবিতা/ছাড়পত্র.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই-বইপত্র"
+   link: ""
+moddate: "2016-04-24"
+pubdate: "2016-02-04"
+comments: true
+authors: 
+ - author: "সুকান্ত ভট্টাচার্য"
+   link: "https://eboipotro.github.io/author/সুকান্ত-ভট্টাচার্য/"
+permalink: "/library/ছাড়পত্র-কবিতা-সুকান্ত-ভট্টাচার্য/"
+---

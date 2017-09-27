@@ -1,0 +1,21 @@
+---
+layout: post
+published: true
+title: "চতুরঙ্গ"
+tags: ["রবীন্দ্রনাথ ঠাকুর"]
+categories: ["উপন্যাস"]
+img: "/images/চতুরঙ্গ-উপন্যাস-রবীন্দ্রনাথ-ঠাকুর.png"
+type: "উপন্যাস"
+dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/উপন্যাস/চতুরঙ্গ.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই-বইপত্র"
+   link: ""
+moddate: "2015-09-07"
+pubdate: "2015-09-07"
+comments: true
+authors: 
+ - author: "রবীন্দ্রনাথ ঠাকুর"
+   link: "https://eboipotro.github.io/author/রবীন্দ্রনাথ-ঠাকুর/"
+permalink: "/library/চতুরঙ্গ-উপন্যাস-রবীন্দ্রনাথ-ঠাকুর/"
+---

@@ -1,0 +1,22 @@
+---
+layout: post
+published: true
+title: "অনুমান"
+tags: ["আরজ আলী মাতুব্বর"]
+categories: ["দর্শন", "ধর্ম", "বিজ্ঞান", "প্রবন্ধ"]
+img: "/images/অনুমান-প্রবন্ধ-আরজ-আলী-মাতুব্বর.jpg"
+type: "প্রবন্ধ"
+subject: ["দর্শন", "ধর্ম", "বিজ্ঞান"]
+dlink: "https://github.com/eboipotro/aroj_ali_matubbar/raw/master/প্রবন্ধ/অনুমান.epub"
+lang: "bn"
+publishers: 
+ - publisher: "আমারবই.কম"
+   link: "https://amarboi.com"
+moddate: "2016-05-13"
+pubdate: "2016-02-22"
+comments: true
+authors: 
+ - author: "আরজ আলী মাতুব্বর"
+   link: "https://eboipotro.github.io/author/আরজ-আলী-মাতুব্বর/"
+permalink: "/library/অনুমান-প্রবন্ধ-আরজ-আলী-মাতুব্বর/"
+---

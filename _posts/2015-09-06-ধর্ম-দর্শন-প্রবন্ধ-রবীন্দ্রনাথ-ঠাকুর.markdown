@@ -1,0 +1,21 @@
+---
+layout: post
+published: true
+title: "ধর্ম/দর্শন"
+tags: ["রবীন্দ্রনাথ ঠাকুর"]
+categories: ["প্রবন্ধ"]
+img: "/images/ধর্ম-দর্শন-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর.png"
+type: "প্রবন্ধ"
+dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/প্রবন্ধ/ধর্ম-দর্শন.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই-বইপত্র"
+   link: ""
+moddate: "2015-09-06"
+pubdate: "2015-09-06"
+comments: true
+authors: 
+ - author: "রবীন্দ্রনাথ ঠাকুর"
+   link: "https://eboipotro.github.io/author/রবীন্দ্রনাথ-ঠাকুর/"
+permalink: "/library/ধর্ম-দর্শন-প্রবন্ধ-রবীন্দ্রনাথ-ঠাকুর/"
+---

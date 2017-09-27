@@ -1,0 +1,56 @@
+{% assign d = page.pubdate | date: "%-d" %}
+{% assign m = page.pubdate | date: "%-m" %}
+{% assign y = page.pubdate | date: "%-Y" %}
+{% case d %}
+{% when '1' %}০১
+{% when '2' %}০২
+{% when '3' %}০৩
+{% when '4' %}০৪
+{% when '5' %}০৫
+{% when '6' %}০৬
+{% when '7' %}০৭
+{% when '8' %}০৮
+{% when '9' %}০৯
+{% when '10' %}১০
+{% when '11' %}১১
+{% when '12' %}১২
+{% when '13' %}১৩
+{% when '14' %}১৪
+{% when '15' %}১৫
+{% when '16' %}১৬
+{% when '17' %}১৭
+{% when '18' %}১৮
+{% when '19' %}১৯
+{% when '20' %}২০
+{% when '21' %}২১
+{% when '22' %}২২
+{% when '23' %}২৩
+{% when '24' %}২৪
+{% when '25' %}২৫
+{% when '26' %}২৬
+{% when '27' %}২৭
+{% when '28' %}২৮
+{% when '29' %}২৯
+{% when '30' %}৩০
+{% when '31' %}৩১
+{% endcase %}
+{% case m %}
+  {% when '1' %}জানুয়ারি
+  {% when '2' %}ফেব্রুয়ারি
+  {% when '3' %}মার্চ
+  {% when '4' %}এপ্রিল
+  {% when '5' %}মে
+  {% when '6' %}জুন
+  {% when '7' %}জুলাই
+  {% when '8' %}অগাস্ট
+  {% when '9' %}সেপ্টেম্বর
+  {% when '10' %}অক্টোবর
+  {% when '11' %}নভেম্বর
+  {% when '12' %}ডিসেম্বর
+{% endcase %}
+{% case y %}
+{% when '2015' %}২০১৫
+{% when '2016' %}২০১৬
+{% else %}
+{{ y | replace:'0','০' | replace:'1','১' | replace:'2','২' | replace:'3','৩' | replace:'4','৪' | replace:'5','৫' | replace:'6','৬' | replace:'7','৭' | replace:'8','৮' | replace:'9','৯'}}
+{% endcase %}

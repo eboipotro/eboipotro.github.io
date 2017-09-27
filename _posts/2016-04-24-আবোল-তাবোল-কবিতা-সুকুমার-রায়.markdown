@@ -1,0 +1,22 @@
+---
+layout: post
+published: true
+title: "আবোল তাবোল"
+tags: ["সুকুমার রায়"]
+categories: ["শিশুসাহিত্য", "কবিতা"]
+img: "/images/আবোল-তাবোল-কবিতা-সুকুমার-রায়.jpg"
+type: "কবিতা"
+subject: ["শিশুসাহিত্য"]
+dlink: "https://github.com/eboipotro/sukumar_ray/raw/master/কবিতা/আবোল_তাবোল.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই-বইপত্র"
+   link: ""
+moddate: "2016-04-24"
+pubdate: "2016-01-13"
+comments: true
+authors: 
+ - author: "সুকুমার রায়"
+   link: "https://eboipotro.github.io/author/সুকুমার-রায়/"
+permalink: "/library/আবোল-তাবোল-কবিতা-সুকুমার-রায়/"
+---

@@ -1,0 +1,21 @@
+---
+layout: post
+published: true
+title: "নবীন"
+tags: ["রবীন্দ্রনাথ ঠাকুর"]
+categories: ["নাটক"]
+img: "/images/নবীন-নাটক-রবীন্দ্রনাথ-ঠাকুর.jpg"
+type: "নাটক"
+dlink: "https://github.com/eboipotro/rabindranath_tagore/raw/master/নাটক/নবীন.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই-বইপত্র"
+   link: ""
+moddate: "2016-04-17"
+pubdate: "2016-04-07"
+comments: true
+authors: 
+ - author: "রবীন্দ্রনাথ ঠাকুর"
+   link: "https://eboipotro.github.io/author/রবীন্দ্রনাথ-ঠাকুর/"
+permalink: "/library/নবীন-নাটক-রবীন্দ্রনাথ-ঠাকুর/"
+---

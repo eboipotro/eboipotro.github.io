@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<div class="page" style="display:flex; flex-direction:column;">
+  <h1 class="page-title">{{ page.title }}</h1>
+  <div class="auth-content" style="display: block;">
+  <p><img src="{{ page.img }}" align="left" style="margin-right: 10px; box-shadow: 3px 3px 20px #202020; max-width: 225px; height: auto;">{{ content }}</p>
+  <a href="{{ page.autlink }}" target="_blank"><i>বিস্তারিত...</i></a>
+  </div>
+  <div class="books" style="display: block; margin: 5px;">
+  <h3>বইসমূহ:</h3>
+  {% assign types = site.categories | sort %}
+  {% assign s_post = site.posts | sort: 'title' %}
+  <ul class="collapsibleList">{% for type in types %}{% capture type_name %}{{ type | first }}{% endcapture %}<li class="collps"><i class="material-icons">view_quilt</i>{{ type_name }}<ul class="hidable">{% for post in s_post %}{% if post.tags contains page.title %}{% if post.categories contains type_name %}<li><i class="material-icons">book</i><a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a></li>{% endif %}{% endif %}{% endfor %}</ul></li>{% endfor %}</ul>
+  </div>
+</div>
+<script type="text/javascript" src="https://eboipotro.github.io/js/CollapsibleLists.js"></script>
+<script>CollapsibleLists.apply();</script>
+<script>
+$('ul').each(function(){
+if($(this).html() == "" || typeof($(this).html())=="undefined")
+{
+    $(this).remove
+}
+});
+</script>
+
+{% include disqus.html %}

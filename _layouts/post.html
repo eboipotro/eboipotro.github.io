@@ -1,0 +1,65 @@
+---
+layout: default
+comments: true
+---
+<div class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <p><img src="{{ page.img }}" align="left" style="margin-right: 10px; box-shadow: 3px 3px 20px #202020;" height="318px" width="225px">
+    <b>লেখক: </b>
+    {% for ath in page.authors %}
+        {% if ath.link == "" %}
+            <b>{{ ath.author }}</b>
+        {% else %}
+            <a href="{{ ath.link }}" target="_blank"><b>{{ ath.author }}</a></b>
+        {% endif %}
+    {% endfor %}<br>
+    {% if page.translators %}
+            <b>অনুবাদক:</b>{% for transl in page.translators %}{% if transl.link == "" %}{{ transl.translator }}{% else %}<a href="{{ transl.link }}" target="_blank">{{ transl.translator }}</a>{% endif %}; {% endfor %}<br>{% endif %}
+            {% if page.editors %}
+            <b>সম্পাদক: </b>{% for edi in page.editors %}{% if edi.link == "" %}{{ edi.editor }}{% else %}<a href="{{ edi.link }}" target="_blank">{{ edi.editor }}</a>{% endif %}; {% endfor %}<br>{% endif %}
+            {% if page.illustrators %}
+        <b>অলঙ্করণ: </b>{% for illus in page.illustrators %}{% if illus.link == "" %}{{ illus.illustrator }}{% else %}<a href="{{ illus.link }}" target="_blank">{{ illus.illustrator }}</a>{% endif %}; {% endfor %}<br>{% endif %}
+        <b>ধরণ:</b> {{ page.type }}<br>
+            {% if page.subject %}
+        <b>বিষয়:</b> {{ page.subject | join: ', ' }}<br>
+            {% endif %}
+    <b>ভাষা:</b> {% include lang.html %}<br>
+    <b>প্রথম সংস্করণ:</b> {% include bangla-page-date.html %}<br>
+    <b>সর্বশেষ সংস্করণ:</b> {% include bangla-page-mod-date.html %}<br>
+    <b>প্রকাশক:</b>
+    {% if page.publishers %}
+        {% for pub in page.publishers %}
+            {% if pub.publisher == 'ই-বইপত্র' or pub.publisher == 'ই - বইপত্র' %}
+    <a href="http://eboipotro.github.io" target="_blank"><b>ই-বইপত্র</b></a>
+           {% elsif pub.link == "" %}
+                </b>{{ pub.publisher }}</b>
+    {% else %}
+    <a href="{{ pub.link }}" target="_blank"><b>{{ pub.publisher }}</b></a>
+    {% endif %}
+    {% endfor %}
+    {% endif %}<br>
+    <div class="button-container">
+    <form method="get" action="{{ page.dlink }}">
+      <div><button type="submit" style="background-color: #202020; color: white; border: none; width:138px; height:48px; font-size:1em; cursor: pointer; cursor: hand;"><i class="material-icons">file_download</i>ডাউনলোড</button></div>
+    </form>
+        <form method="get" action="/reader/" target="_blank">
+          <div><button type="submit" name="book" value="{{ page.dlink }}" style="background-color: #202020; color: white; border: none; width:138px; height:48px; font-size:1em; cursor: pointer; cursor: hand;"><i class="material-icons">chrome_reader_mode</i>পড়ুন</button></div>
+        </form>
+    </div>
+  </p>
+  {% if page.description %}
+  <hr/>
+  <p>{{ page.description | strip_html }}</p>
+  {% endif %}
+</div>
+
+{% include share-page.html %}
+
+{% if page.price %}
+  {% include buy.html %}
+{% endif %}
+{% include related.html %}
+  <h3>মন্তব্য করুন:</h3>
+{% if page.comments %}
+  {% include disqus.html %}
+{% endif %}

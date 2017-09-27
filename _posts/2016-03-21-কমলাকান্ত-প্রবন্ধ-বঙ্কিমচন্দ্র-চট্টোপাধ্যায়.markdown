@@ -1,0 +1,22 @@
+---
+layout: post
+published: true
+title: "কমলাকান্ত"
+tags: ["বঙ্কিমচন্দ্র চট্টোপাধ্যায়"]
+categories: ["ব্যাঙ্গরচনা", "রম্যরচনা", "প্রবন্ধ"]
+img: "/images/কমলাকান্ত-প্রবন্ধ-বঙ্কিমচন্দ্র-চট্টোপাধ্যায়.jpg"
+type: "প্রবন্ধ"
+subject: ["ব্যাঙ্গরচনা", "রম্যরচনা"]
+dlink: "https://github.com/eboipotro/bankim/raw/master/প্রবন্ধ/কমলাকান্ত.epub"
+lang: "bn"
+publishers: 
+ - publisher: "ই-বইপত্র"
+   link: ""
+moddate: "2016-03-21"
+pubdate: "2016-02-03"
+comments: true
+authors: 
+ - author: "বঙ্কিমচন্দ্র চট্টোপাধ্যায়"
+   link: "https://eboipotro.github.io/author/বঙ্কিমচন্দ্র-চট্টোপাধ্যায়/"
+permalink: "/library/কমলাকান্ত-প্রবন্ধ-বঙ্কিমচন্দ্র-চট্টোপাধ্যায়/"
+---

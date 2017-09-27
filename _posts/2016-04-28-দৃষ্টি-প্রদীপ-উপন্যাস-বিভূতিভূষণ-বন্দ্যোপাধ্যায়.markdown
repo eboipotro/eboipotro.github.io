@@ -1,0 +1,21 @@
+---
+layout: post
+published: true
+title: "দৃষ্টি প্রদীপ"
+tags: ["বিভূতিভূষণ বন্দ্যোপাধ্যায়"]
+categories: ["উপন্যাস"]
+img: "/images/দৃষ্টি-প্রদীপ-উপন্যাস-বিভূতিভূষণ-বন্দ্যোপাধ্যায়.jpg"
+type: "উপন্যাস"
+dlink: "https://github.com/eboipotro/bibhutibhushan/raw/master/উপন্যাস/দৃষ্টি_প্রদীপ.epub"
+lang: "bn"
+publishers: 
+ - publisher: "Swiftboox"
+   link: "http://www.swiftboox.com"
+moddate: "2016-04-28"
+pubdate: "2013-07-15"
+comments: true
+authors: 
+ - author: "বিভূতিভূষণ বন্দ্যোপাধ্যায়"
+   link: "https://eboipotro.github.io/author/বিভূতিভূষণ-বন্দ্যোপাধ্যায়/"
+permalink: "/library/দৃষ্টি-প্রদীপ-উপন্যাস-বিভূতিভূষণ-বন্দ্যোপাধ্যায়/"
+---

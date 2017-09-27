@@ -1,0 +1,13 @@
+excerpt_separator: ""
+highlighter: rouge
+markdown: kramdown
+url: https://eboipotro.github.io
+title: ই-বইপত্র
+tagline: "বাঙলা ইপাব লাইব্রেরী"
+description: "বাঙলা ইপাব লাইব্রেরী"
+paginate: 48
+include: ['_authors']
+permalink: /library/:title/
+relative_permalinks: false
+
+gems: [jekyll-paginate]

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+  {% include head.html %}
+
+  <body>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '1620303934924183',
+      xfbml      : true,
+      version    : 'v2.5'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+{% include sidebar.html %}
+<div class="content container">
+  {% include jekyll-search.html %}
+  {{ content }}
+</div>
+<a href="#" class="back-to-top"><img src="/public/backtotop.png"></a>
+
+<script>
+var amountScrolled = 300; $(window).scroll(function() {
+ 	if ( $(window).scrollTop() > amountScrolled ) {
+ 		$('a.back-to-top').fadeIn('slow');
+ 	} else {
+ 		$('a.back-to-top').fadeOut('slow');
+ 	}
+ });
+
+$('a.back-to-top').click(function() { 	$('body, html').animate({
+ 		scrollTop: 0
+ 	},
+ 700);
+ 	return false;
+ });
+</script>
+  </body>
+</html>

@@ -1,0 +1,24 @@
+---
+layout: post
+published: true
+title: "পুতুলনাচের ইতিকথা"
+tags: ["মানিক বন্দ্যোপাধ্যায়"]
+categories: ["উপন্যাস"]
+img: "/images/পুতুলনাচের-ইতিকথা-উপন্যাস-মানিক-বন্দ্যোপাধ্যায়.jpeg"
+type: "উপন্যাস"
+dlink: "https://github.com/eboipotro/manik_bandyapadhyay/raw/master/উপন্যাস/পুতুলনাচের-ইতিকথা.epub"
+lang: "bn"
+publishers: 
+ - publisher: "শিশু-কিশোর.অর্গ"
+   link: "http://www.shishukishor.org"
+moddate: "2016-06-05"
+pubdate: "2016-05-15"
+comments: true
+authors: 
+ - author: "মানিক বন্দ্যোপাধ্যায়"
+   link: "https://eboipotro.github.io/author/মানিক-বন্দ্যোপাধ্যায়/"
+illustrators: 
+ - illustrator: "ধ্রুব এষ"
+   link: ""
+permalink: "/library/পুতুলনাচের-ইতিকথা-উপন্যাস-মানিক-বন্দ্যোপাধ্যায়/"
+---
